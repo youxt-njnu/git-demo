@@ -7,3 +7,4 @@ hellow,git
 hellow,git
 hellow,git
 hellow,git
+by clone

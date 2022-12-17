@@ -30,3 +30,11 @@ jupyter里的[链接](http://localhost:8888/tree/dataProcessing/opencvTutor)
 ## 实战案例
 1. 信用卡数字识别
 2. 文档扫描OCR识别
+  1) 图像处理
+  2) OCR识别——tesseract-ocr
+
+## 图像特征
+1. harris
+2. sift
+3. 特征匹配
+

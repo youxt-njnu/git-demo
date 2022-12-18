@@ -7,7 +7,7 @@
  - [ ] 回顾下Python课程下的课件和代码  
  - [ ] 数据处理的md：OSMnx-example  
  - [ ] 各类平台上的收藏的资源带着整理下，还有网站的收藏夹、OneNote  
- - [ ] openlayer一个比较好的[入门教程](http://linwei.xyz/ol3-primer/index.html)
+ - [ ] openlayer:一个比较好的[入门教程](http://linwei.xyz/ol3-primer/index.html),一本书OpenLayers Cookbook, 一个[教程](https://chenjiamian.github.io/OpenLayers-3.x-Cookbook-Doc/#)和对应的代码，[官方文档](https://openlayers.org/en/latest/apidoc/module-ol_source_Vector.VectorSourceEvent.html)，
 ### 长期性的
  - [ ] 学习并尝试精通QGIS，以及其PyQGIS
  - [ ] 前后端学习，并能够搞出一个个人的博客，也是简历的展示，尝试综合运用本科学习的知识和库这种

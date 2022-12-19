@@ -10,7 +10,7 @@
  - [ ] openlayer:一个比较好的[入门教程](http://linwei.xyz/ol3-primer/index.html),一本书OpenLayers Cookbook, 一个[教程](https://chenjiamian.github.io/OpenLayers-3.x-Cookbook-Doc/#)和对应的代码，[官方文档](https://openlayers.org/en/latest/apidoc/module-ol_source_Vector.VectorSourceEvent.html)，
 ### 长期性的
  - [ ] 学习并尝试精通QGIS，以及其PyQGIS
- - [ ] 前后端学习，并能够搞出一个个人的博客，也是简历的展示，尝试综合运用本科学习的知识和库这种
+ - [ ] 前后端学习，并能够搞出一个个人的博客，也是简历的展示，尝试综合运用本科学习的知识和库这种:高德API、Mapbox JS
  - [ ] 对本科所拼接的代码、作业这种进行整理，规范化并输出
  - [ ] 借毕业论文，构建自己的GitHub
  - [ ] 接触下就业相关的，未雨绸缪，接触一些项目动手操作下

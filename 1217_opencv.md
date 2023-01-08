@@ -1,6 +1,9 @@
 # 过一遍opencv
 完全不熟悉，也没啥实操，这篇就写下案例里有哪些操作和功能，后续需要的化就参考下，知道有这么个路径可以做吧。
 jupyter里的[链接](http://localhost:8888/tree/dataProcessing/opencvTutor)
+
+[本地资源路径](../jupyter/1opencv)
+
 ## 图像操作
 ### 基本操作
 1. 读取图像为彩色、灰度图像

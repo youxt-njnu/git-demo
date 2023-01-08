@@ -1,6 +1,10 @@
 # python
 
 > [官方文档](https://docs.python.org/3/)
+>
+> [本地链接](../python/python空间课件)
+>
+> [科学可视化的书](../python/scientific-visualization-book-master)
 
 python的缺点
 

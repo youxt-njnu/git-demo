@@ -4,10 +4,10 @@
 ## 规划了没做的事情
   荒废一段时间后，回头看，当时兴致昂扬准备学些或者了解的东西，都学了些然后永久搁浅了，就很难受。所以这边列举下。
 ### 阶段性的
- - [ ] 回顾下Python课程下的课件和代码  
  - [ ] 数据处理的md：OSMnx-example  
  - [ ] 各类平台上的收藏的资源带着整理下，还有网站的收藏夹、OneNote  
  - [ ] openlayer:一个比较好的[入门教程](http://linwei.xyz/ol3-primer/index.html),一本书OpenLayers Cookbook, 一个[教程](https://chenjiamian.github.io/OpenLayers-3.x-Cookbook-Doc/#)和对应的代码，[官方文档](https://openlayers.org/en/latest/apidoc/module-ol_source_Vector.VectorSourceEvent.html)，
+
 ### 长期性的
  - [ ] 学习并尝试精通QGIS，以及其PyQGIS
  - [ ] 前后端学习，并能够搞出一个个人的博客，也是简历的展示，尝试综合运用本科学习的知识和库这种:高德API、Mapbox JS
@@ -42,13 +42,16 @@
 | 1221 | 进行文本化 | ✔️ | ✔️ | 专业课：看文献ing | 专业课：功能完善 | 专业课：复习备考 |
 | 1222 | ✔️ | ✔️ | :o: | 专业课：看文献ing | 专业课：功能完善 | 专业课：复习备考 |
 | 1223-1227 | - | ✔️ | - | 感染新冠，休整 | 专业课，作业做完交了 | - |
-</div>
+|</div>|||||||
 
 接下来是一个新的阶段了，虽然还有三个考试，但近期的那个，看书和资料可以作为日常的学习和理论扩充。~
 
 又是一个新阶段，年前的考试结束了，这学期还有年后的两门考试，节奏把握好，前面就当休息了📕
 
 | 2023 📅  |英语学习 📹 |锻炼身体 🚶‍♀️ |数据处理 👩‍💼 | 理论学习 📖 | 知识扩充 🔭 | 就业up ✈️ | 其他活动 🏕️ |
-| ----- |-------|-------|-------|--------|-----------| ----- |----- |
+| :---: |:-----:|:-----:|:-----:|:------:|:---------:| :---: |:---: |
 | 0106-0107  | :o:   | :o:   | :o:   | ✔️    | :o:       | :o:   | 躺平+出门   |
 | 0108  | ✔️  | ✔️   | :o:   | ✔️    | ✔️      | ✔️   | 资料整理  |
+| 0109 | :heavy_check_mark: | :o: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :o: | 躺平 |
+| 0110 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :o: | :o: | 躺平 |
+| 0111 | :heavy_check_mark: |  |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 躺平 |

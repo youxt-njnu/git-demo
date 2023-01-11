@@ -362,6 +362,7 @@ plt.imshow(z,extent=extent,origin="lower")
 2. [更改jupyter notebook工作目录](https://www.cnblogs.com/yang9165/p/12762481.html)
 3. [机器学习新手必看：Jupyter Notebook入门指南](https://cloud.tencent.com/developer/news/225036)
 4. [jupyter notebook三大附加功能，好用到飞起！](https://juejin.cn/post/6844903906959441933)
+4. [使用Jupyter Notebook编写技术文档](https://www.cnblogs.com/noticeable/p/9010881.html)
 
 # 其他的一些扩充
 
@@ -371,6 +372,17 @@ plt.imshow(z,extent=extent,origin="lower")
 4. [安装opencv](https://blog.csdn.net/weixin_35684521/article/details/81953047)
 5. 
 
-# opencv
+
+
+# 相关库
+
+shapely
+
+ogr
+
+cartopy
+
+gdal
 
 [opencvTutor](opencvTutor)
+

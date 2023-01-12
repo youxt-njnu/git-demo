@@ -54,4 +54,5 @@
 | 0108  | ✔️  | ✔️   | :o:   | ✔️    | ✔️      | ✔️   | 资料整理  |
 | 0109 | :heavy_check_mark: | :o: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :o: | 躺平 |
 | 0110 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :o: | :o: | 躺平 |
-| 0111 | :heavy_check_mark: |  |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 躺平 |
+| 0111 | :heavy_check_mark: | :heavy_check_mark: | :o: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 躺平 |
+| 0112 | :heavy_check_mark: |  |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 躺平 |

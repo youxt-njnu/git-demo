@@ -50,9 +50,10 @@
 
 | 2023 📅  |英语学习 📹 |锻炼身体 🚶‍♀️ |数据处理 👩‍💼 | 理论学习 📖 | 知识扩充 🔭 | 就业up ✈️ | 其他活动 🏕️ |
 | :---: |:-----:|:-----:|:-----:|:------:|:---------:| :---: |:---: |
-| 0106-0107  | :o:   | :o:   | :o:   | ✔️    | :o:       | :o:   | 躺平+出门   |
-| 0108  | ✔️  | ✔️   | :o:   | ✔️    | ✔️      | ✔️   | 资料整理  |
+| 0106-0107  | :o:   | :o:   | :o:   | ✔️    | :o:       | :o:   | 出门   |
+| 0108  | ✔️  | ✔️   | :o:   | ✔️    | ✔️      | ✔️   | 整理  |
 | 0109 | :heavy_check_mark: | :o: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :o: | 躺平 |
 | 0110 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :o: | :o: | 躺平 |
 | 0111 | :heavy_check_mark: | :heavy_check_mark: | :o: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 躺平 |
-| 0112 | :heavy_check_mark: |  |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 躺平 |
+| 0112 | :heavy_check_mark: | :heavy_check_mark: | :o: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 躺平 |
+| 0113 | :heavy_check_mark: | | | :heavy_check_mark: | :o: | :o: | 出门 |

@@ -223,8 +223,38 @@ finally:
     
 ```
 
-```python
+
+
+# jupyter notebook
+
+1. [jupyter快速入门](..\dataProcessing)
+2. [更改jupyter notebook工作目录](https://www.cnblogs.com/yang9165/p/12762481.html)
+3. [机器学习新手必看：Jupyter Notebook入门指南](https://cloud.tencent.com/developer/news/225036)
+4. [jupyter notebook三大附加功能，好用到飞起！](https://juejin.cn/post/6844903906959441933)
+5. [使用Jupyter Notebook编写技术文档](https://www.cnblogs.com/noticeable/p/9010881.html)
+6. [jupyter自动补全/代码提示、格式化](https://blog.csdn.net/qq_47183158/article/details/117591814)
+7. [jupyter自动补全，这个里面也有autoscroll就是自动换行](https://blog.csdn.net/qq_45154565/article/details/109113838)
+4. [jupyter自动换行设置](https://www.cnblogs.com/hider/p/15583219.html)
+4. [jupyter查看函数或方法的参数及使用情况](https://cloud.tencent.com/developer/article/1740045)
+4. [Jupyter Notebook 设置sublime text的快捷键](https://www.ucloud.cn/yun/43074.html)
+4. [juyter自动纠错、结合vscode](https://developer.aliyun.com/article/1107970)
+4. 综合类指南：[规范化和主题更改](https://blog.51cto.com/lhrbest/3270674)、[使用技巧](https://cloud.tencent.com/developer/article/1562478)
+4. [jupyter notebook 查看安装的第三方库查看模块下的函数及查看某个函数](https://blog.csdn.net/dongdj18/article/details/111874808)
+
+# others~
+
+1. [python timeit模块的使用](https://blog.csdn.net/weixin_43790276/article/details/103848054)
+2. [Timeit in Jupyter Notebook](https://linuxhint.com/timeit-jupyter-notebook/)
+3. [安装PIL](https://blog.csdn.net/username666/article/details/113598726)
+5. 
+
+
+
 # numpy
+
+numpy是Python的数值计算扩展，专门用来处理矩阵，它的运算效率比列表更高效。numpy的数据结构是n维的数组对象，叫做ndarray。Python的list虽然也能表示，但是不高效，随着列表数据的增加，效率会降低。
+
+```python
 ## ndarray对象
 ### 创建
 a=np.array([1,2,3,4])
@@ -298,8 +328,13 @@ unique(), bincount(), histogram()
 vstack(), hstack(), column_stack(), split(),
 ```
 
-```python
+
+
 # matplotlib
+
+画图
+
+```python
 import matplotlib.pyplot as plt
 plt.ion()
 plt.plot(x,y,label='$sin(x)$',color='r',linewidth=2)
@@ -353,36 +388,71 @@ plt.imshow(img)
 import matplotlib.cm as cm
 ...
 plt.imshow(z,extent=extent,origin="lower")
-
 ```
 
-# jupyter notebook
+# Pandas
 
-1. [jupyter快速入门](..\dataProcessing)
-2. [更改jupyter notebook工作目录](https://www.cnblogs.com/yang9165/p/12762481.html)
-3. [机器学习新手必看：Jupyter Notebook入门指南](https://cloud.tencent.com/developer/news/225036)
-4. [jupyter notebook三大附加功能，好用到飞起！](https://juejin.cn/post/6844903906959441933)
-4. [使用Jupyter Notebook编写技术文档](https://www.cnblogs.com/noticeable/p/9010881.html)
+[github仓库](https://github.com/pandas-dev/pandas)、[官方文档](http://pandas.pydata.org/pandas-docs/stable/)、[菜鸟教程](https://www.runoob.com/pandas/pandas-series.html)、[w3c教程](https://www.w3schools.com/python/pandas/pandas_intro.asp)、[zotero实操里的图]()
 
-# 其他的一些扩充
+数据分析和处理的工具，方便处理空缺值如NaN, NA, NaT；方便对数据进行拆分、组合、分类、聚合等操作；方便实现时间序列功能，对于日期范围的生成、频率转换、移动窗口、日期偏移和滞后等；方便进行IO操作，支持多种数据格式的保存和加载；
 
-1. [python timeit模块的使用](https://blog.csdn.net/weixin_43790276/article/details/103848054)
-2. [Timeit in Jupyter Notebook](https://linuxhint.com/timeit-jupyter-notebook/)
-3. [安装PIL](https://blog.csdn.net/username666/article/details/113598726)
-4. [安装opencv](https://blog.csdn.net/weixin_35684521/article/details/81953047)
-5. 
+pandas有两个主要的数据结构，Series和DataFrame。Series类似于一维数组，和numpy的array接近，由一组数据和数据标签组成。数据标签有索引的作用。Series是一维的数据结构，DataFrame是一个表格型的数据结构，它含有不同的列，每列都是不同的数据类型。我们可以把DataFrame看作Series组成的字典，它既有行索引也有列索引。想象得更明白一点，它类似一张excel表格或者SQL，只是功能更强大。
+
+1. 读取json、csv数据，并且针对内嵌的json数据可以进行快速展平json_normalize
+2. 清除空值：dropna、isnull、fillna()、drop、duplicate、
 
 
 
-# 相关库
+# shapely
 
-shapely
+计算几何处理；
 
-ogr
+1. 几何对象：point、linestring、linearring、polygon、multipoint/multilinestring/multipolygon
+2. 几何计算：包围盒、长度面积、关系、缓冲、凸包、化简、分割、坐标变换
 
-cartopy
+# GeoPandas
 
-gdal
+[文档](https://geopandas.org/en/stable/docs.html#main-content)、[教程](https://www.learndatasci.com/tutorials/geospatial-data-python-geopandas-shapely/)、[知乎上的](https://zhuanlan.zhihu.com/p/345070554)、[另一个教程](https://www.cnblogs.com/giserliu/p/4988615.html)、[osgeo上的](https://www.osgeo.cn/pygis/others-geopandas.html)
+
+GeoPandas扩展了Pandas中使用的数据类型DataFrame，允许对几何类型进行空间操作。
+
+    GeoPandas的目标是使在python中使用地理空间数据更容易。它结合了Pandas和Shapely的能力，提供了Pandas的地理空间操作和多种Shapely的高级接口。GeoPandas可以让您轻松地在python中进行操作，否则将需要空间数据库，如PostGIS。
+
+1. 读取csv、shp数据并转换为geodataframe格式进行处理；导出为shp、csv、excel等
+2. 简单空间分析：长度、面积、投影变换、质心、缓冲区、九交运算、融合、基于位置将属性从一个图层赋予到另一个图层、
+3. 绘图
+
+# ogr
+
+矢量数据读取和处理；
+
+和arcgis这种软件对于几何的定义相同，可以进行多种地理数据的导入导出、几何运算、添加、基本信息获取和修改
+
+# gdal
+
+进行栅格数据的读取、处理、求解特征、制图、可视化、存储
+
+# cartopy
+
+用来进行地图制图，可以进行各种投影变换、加载地图数据、数据导入和制图
+
+# descartes
+
+[osgeo上的](https://www.osgeo.cn/pygis/others-descartes.html)、[仓库](https://github.com/descarteslabs/descarteslabs-python)、[文档](https://docs.descarteslabs.com/installation.html)、
+
+利用这个，把osmnx里转成的gdf的几何对象转到matplotlib轴上
+
+# Folium
+
+[教程1](https://www.biaodianfu.com/folium.html)、[半中文文档](https://www.osgeo.cn/folium/)、[官方文档](https://python-visualization.github.io/folium/)、[教程2](https://realpython.com/python-folium-web-maps-from-data/)
+
+Folium是一个基于leaflet.js的Python地图库，其中，Leaflet是一个非常轻的前端地图可视化库。即可以使用Python语言调用Leaflet的地图可视化能力。它不单单可以在地图上展示数据的分布图，还可以使用Vincent/Vega在地图上加以标记。Folium可以让你用Python强大生态系统来处理数据，然后用Leaflet地图来展示。
+
+
+
+# opencv
+
+[安装opencv](https://blog.csdn.net/weixin_35684521/article/details/81953047)
 
 [opencvTutor](opencvTutor)
 

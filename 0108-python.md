@@ -1,4 +1,4 @@
-# python
+# python基础
 
 > [官方文档](https://docs.python.org/3/)
 >
@@ -240,6 +240,10 @@ finally:
 4. [juyter自动纠错、结合vscode](https://developer.aliyun.com/article/1107970)
 4. 综合类指南：[规范化和主题更改](https://blog.51cto.com/lhrbest/3270674)、[使用技巧](https://cloud.tencent.com/developer/article/1562478)
 4. [jupyter notebook 查看安装的第三方库查看模块下的函数及查看某个函数](https://blog.csdn.net/dongdj18/article/details/111874808)
+4. [Jupyter Notebook怎么修改字体和大小以及更改字体样式](https://www.baidu.com/index.php?tn=monline_3_dg)
+4. [Jupyter Notebook 插入图片的几种方法](https://blog.csdn.net/zzc15806/article/details/82633865)
+4. [jupyter快捷键](https://blog.csdn.net/lawme/article/details/51034543)
+4. 
 
 # others~
 
@@ -248,9 +252,9 @@ finally:
 3. [安装PIL](https://blog.csdn.net/username666/article/details/113598726)
 5. 
 
+# 几个重要的库
 
-
-# numpy
+## numpy
 
 numpy是Python的数值计算扩展，专门用来处理矩阵，它的运算效率比列表更高效。numpy的数据结构是n维的数组对象，叫做ndarray。Python的list虽然也能表示，但是不高效，随着列表数据的增加，效率会降低。
 
@@ -330,7 +334,7 @@ vstack(), hstack(), column_stack(), split(),
 
 
 
-# matplotlib
+## matplotlib
 
 画图
 
@@ -390,7 +394,7 @@ import matplotlib.cm as cm
 plt.imshow(z,extent=extent,origin="lower")
 ```
 
-# Pandas
+## Pandas
 
 [github仓库](https://github.com/pandas-dev/pandas)、[官方文档](http://pandas.pydata.org/pandas-docs/stable/)、[菜鸟教程](https://www.runoob.com/pandas/pandas-series.html)、[w3c教程](https://www.w3schools.com/python/pandas/pandas_intro.asp)、[zotero实操里的图]()
 
@@ -401,16 +405,60 @@ pandas有两个主要的数据结构，Series和DataFrame。Series类似于一�
 1. 读取json、csv数据，并且针对内嵌的json数据可以进行快速展平json_normalize
 2. 清除空值：dropna、isnull、fillna()、drop、duplicate、
 
+## opencv
+
+[安装opencv](https://blog.csdn.net/weixin_35684521/article/details/81953047)
+
+[opencvTutor](opencvTutor)
 
 
-# shapely
+
+# 开源GIS教程
+
+## 基础准备
+
+
+
+## GDAL操作栅格数据
+
+进行栅格数据的读取、处理、求解特征、制图、可视化、存储
+
+## ogr操作矢量数据
+
+矢量数据读取和处理；
+
+和arcgis这种软件对于几何的定义相同，可以进行多种地理数据的导入导出、几何运算、添加、基本信息获取和修改
+
+## 空间坐标PROJ
+
+
+
+## shapely分析矢量数据
 
 计算几何处理；
 
 1. 几何对象：point、linestring、linearring、polygon、multipoint/multilinestring/multipolygon
 2. 几何计算：包围盒、长度面积、关系、缓冲、凸包、化简、分割、坐标变换
 
-# GeoPandas
+## 空间数据库SpatialLite
+
+
+
+## GIS制图
+
+### cartopy
+
+用来进行地图制图，可以进行各种投影变换、加载地图数据、数据导入和制图
+
+### descartes
+
+[osgeo上的](https://www.osgeo.cn/pygis/others-descartes.html)、[仓库](https://github.com/descarteslabs/descarteslabs-python)、[文档](https://docs.descarteslabs.com/installation.html)、
+
+利用这个，把osmnx里转成的gdf的几何对象转到matplotlib轴上
+
+
+
+## GeoPandas数据分析
 
 [文档](https://geopandas.org/en/stable/docs.html#main-content)、[教程](https://www.learndatasci.com/tutorials/geospatial-data-python-geopandas-shapely/)、[知乎上的](https://zhuanlan.zhihu.com/p/345070554)、[另一个教程](https://www.cnblogs.com/giserliu/p/4988615.html)、[osgeo上的](https://www.osgeo.cn/pygis/others-geopandas.html)
 
@@ -422,37 +470,8 @@ GeoPandas扩展了Pandas中使用的数据类型DataFrame，允许对几何类�
 2. 简单空间分析：长度、面积、投影变换、质心、缓冲区、九交运算、融合、基于位置将属性从一个图层赋予到另一个图层、
 3. 绘图
 
-# ogr
-
-矢量数据读取和处理；
-
-和arcgis这种软件对于几何的定义相同，可以进行多种地理数据的导入导出、几何运算、添加、基本信息获取和修改
-
-# gdal
-
-进行栅格数据的读取、处理、求解特征、制图、可视化、存储
-
-# cartopy
-
-用来进行地图制图，可以进行各种投影变换、加载地图数据、数据导入和制图
-
-# descartes
-
-[osgeo上的](https://www.osgeo.cn/pygis/others-descartes.html)、[仓库](https://github.com/descarteslabs/descarteslabs-python)、[文档](https://docs.descarteslabs.com/installation.html)、
-
-利用这个，把osmnx里转成的gdf的几何对象转到matplotlib轴上
-
-# Folium
+## Folium的webgis
 
 [教程1](https://www.biaodianfu.com/folium.html)、[半中文文档](https://www.osgeo.cn/folium/)、[官方文档](https://python-visualization.github.io/folium/)、[教程2](https://realpython.com/python-folium-web-maps-from-data/)
 
 Folium是一个基于leaflet.js的Python地图库，其中，Leaflet是一个非常轻的前端地图可视化库。即可以使用Python语言调用Leaflet的地图可视化能力。它不单单可以在地图上展示数据的分布图，还可以使用Vincent/Vega在地图上加以标记。Folium可以让你用Python强大生态系统来处理数据，然后用Leaflet地图来展示。
-
-
-
-# opencv
-
-[安装opencv](https://blog.csdn.net/weixin_35684521/article/details/81953047)
-
-[opencvTutor](opencvTutor)
-

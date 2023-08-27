@@ -3,3 +3,5 @@
 [自己整理的](https://zhuanlan.zhihu.com/p/592460193)
 
 [做的项目作业](https://github.com/youxt-njnu/hgisworkHD)
+
+[知乎上的一个教程](GIS开发_OpenLayers教程 - ZhiyunLee的文章 - 知乎 https://zhuanlan.zhihu.com/p/341896668)

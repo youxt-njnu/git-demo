@@ -134,8 +134,13 @@ PDF格式的图片要求"all fonts are embedded"？
 > [如何给PDF嵌入相关字体](https://blog.csdn.net/qq_34823218/article/details/120883050)
 
 # 绘图微调👉Adobe Illustrator👍
+## 支持正版
+
+## 常用快捷键
+
+## 轻微强迫症
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDkzOTcwNSwtMTUwNjEyNTE5Myw2OT
+eyJoaXN0b3J5IjpbMTA4NzM5MTI1MywtMTUwNjEyNTE5Myw2OT
 YzNDM1MDYsLTU0MTM3NDc1OF19
 -->

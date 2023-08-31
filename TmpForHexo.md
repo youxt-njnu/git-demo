@@ -69,11 +69,16 @@ fn+esc切换功能键
 
 联动draw.io;
 
-联动jupyter、python；
+Python工作流：jupyter
 
-联动前端；
+前端工作流
 
-联动[copilot](https://www.cnblogs.com/gigabit/p/16102097.html)、[官网](https://github.com/features/copilot)
+[copilot](https://www.cnblogs.com/gigabit/p/16102097.html)的AI辅助流、[官网](https://github.com/features/copilot)
+
+## 联动
+drawio
+markdown
+
 
 # Unity 1
 
@@ -104,5 +109,5 @@ fn+esc切换功能键
 
 [Unity编译Android的原理解析和apk打包分析 - 偶素浅小浅 - 博客园](https://www.cnblogs.com/purpleraintear/p/6403036.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk5MjkzMjYsLTU0MTM3NDc1OF19
+eyJoaXN0b3J5IjpbLTc5NDEzMzk3MSwtNTQxMzc0NzU4XX0=
 -->

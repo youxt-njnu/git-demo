@@ -121,9 +121,12 @@ Office
 > 需要发表一篇英文论文，于是官网上苦读发表须知，于是进行了相应的记录。。。
 
 ## 字体、字号要求？
-10 points是啥意思？[px,pt,em换算表](https://www.runoob.com/w3cnote/px-pt-em-convert-table.html)
+8 points是啥意思？
+>[px,pt,em换算表](https://www.runoob.com/w3cnote/px-pt-em-convert-table.html)
+
+PDF格式的图片要求"all fonts are embedded"？
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzQwODY0MSw2OTYzNDM1MDYsLTU0MT
-M3NDc1OF19
+eyJoaXN0b3J5IjpbLTI5MzQ4ODA5LDY5NjM0MzUwNiwtNTQxMz
+c0NzU4XX0=
 -->

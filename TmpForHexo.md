@@ -117,7 +117,12 @@ Office
 
 
 # 论文发表怎么符合期刊要求
+
+> 需要发表一篇英文论文，于是官网上苦读发表须知，于是进行了相应的记录。。。
+
+## 字体、字号要求？
+https://www.runoob.com/w3cnote/px-pt-em-convert-table.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3Mzk1MjE5LDY5NjM0MzUwNiwtNTQxMz
-c0NzU4XX0=
+eyJoaXN0b3J5IjpbLTE4OTY5OTM3NTIsNjk2MzQzNTA2LC01ND
+EzNzQ3NThdfQ==
 -->

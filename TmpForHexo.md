@@ -120,13 +120,17 @@ Office
 
 > 需要发表一篇英文论文，于是官网上苦读发表须知，于是进行了相应的记录。。。
 
-## 字体、字号要求？
+
+## 模板？
+wordmo'ban
+
+## 细节要求？
 8 points是啥意思？
->[px,pt,em换算表](https://www.runoob.com/w3cnote/px-pt-em-convert-table.html)
+> [px,pt,em换算表](https://www.runoob.com/w3cnote/px-pt-em-convert-table.html)
 
 PDF格式的图片要求"all fonts are embedded"？
-
+> [如何给PDF嵌入相关字体](https://blog.csdn.net/qq_34823218/article/details/120883050)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzQ4ODA5LDY5NjM0MzUwNiwtNTQxMz
+eyJoaXN0b3J5IjpbNTAxNDc5MTc3LDY5NjM0MzUwNiwtNTQxMz
 c0NzU4XX0=
 -->

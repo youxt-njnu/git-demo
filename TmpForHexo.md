@@ -116,7 +116,7 @@ Office
 > Written with [StackEdit中文版](https://stackedit.cn/).
 
 
-# 论文发表怎么符合期刊要求
+# 论文发表&期刊要求
 
 > 需要发表一篇英文论文，于是官网上苦读发表须知，于是进行了相应的记录。。。
 
@@ -141,6 +141,6 @@ PDF格式的图片要求"all fonts are embedded"？
 ## 轻微强迫症
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzM5MTI1MywtMTUwNjEyNTE5Myw2OT
-YzNDM1MDYsLTU0MTM3NDc1OF19
+eyJoaXN0b3J5IjpbNzQ1NTEyNTQ1LDEwODczOTEyNTMsLTE1MD
+YxMjUxOTMsNjk2MzQzNTA2LC01NDEzNzQ3NThdfQ==
 -->

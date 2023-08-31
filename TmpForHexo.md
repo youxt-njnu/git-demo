@@ -15,28 +15,25 @@
 快捷键
 延寿注意点
 ## Logi K380
-设备设置技巧
-快捷键
-延寿注意点
+### 设备设置技巧
+## 快捷键
+
 ## Logi K580
-设备设置技巧
-快捷键
-延寿注意点
 
+### 设备设置技巧
 通道1：pad or phone
-
 通道2：电脑，usb
-
 Chrome OS,默认的操作系统布局，FN+8下3秒钟
-
 Android，切换该布局FN+9下3秒钟；
-
 数字键点击小锁键，未启用按住5秒钟；
-
 [指南](https://manuals.plus/zh-CN/logitech/logitech-k580-multi-device-wireless-keyboard-chrome-os-user-manual)
-
 fn+esc切换功能键
 
+### 快捷键
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzg1MjgwMV19
+eyJoaXN0b3J5IjpbLTE3Nzg2NzY2NTJdfQ==
 -->

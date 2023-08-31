@@ -51,11 +51,12 @@ fn+esc切换功能键
 
 [MySql错误 1251 - Client does not support authentication protocol requested by server 解决方案_1251 client does not support authentication_阿燃i的博客-CSDN博客](https://blog.csdn.net/OCEAN_C/article/details/89719578)
 
-[Unity连接MySql，The given key was not present in the dictionary 错误原因及解决办法_ 木头的博客-CSDN博客](https://blog.csdn.net/pstj123456/article/details/105999672)
-
 [Can‘t connect to MySQL server on ‘localhost:3306‘ (10061)_Where-to-go的博客-CSDN博客](https://blog.csdn.net/weixin_45523183/article/details/116358192)
 
-## VSCOde配置使用
+[Unity连接MySql，The given key was not present in the dictionary 错误原因及解决办法_ 木头的博客-CSDN博客](https://blog.csdn.net/pstj123456/article/details/105999672)
+
+# VSCode
+## 配置使用
 [VS code修改插件安装位置的简易办法](https://blog.csdn.net/weixin_43031092/article/details/109214231)
 
 [vs基本使用](https://zhuanlan.zhihu.com/p/71110525)
@@ -65,10 +66,9 @@ fn+esc切换功能键
 [vs瘦身](https://blog.csdn.net/a358763471/article/details/115856513)
 
 [查看和给vscode从c盘瘦身](https://blog.csdn.net/Tisfy/article/details/126082324)
-[联动Leetcode](https://blog.csdn.net/qq_45436706/article/details/106957473)；[联动2](https://juejin.cn/post/6844904105782018055)；[联动3](https://github.com/LeetCode-OpenSource/vscode-leetcode/blob/master/docs/README_zh-CN.md)；
 
-联动draw.io;
 
+## 工作流
 Python工作流：jupyter
 
 前端工作流
@@ -78,7 +78,8 @@ Python工作流：jupyter
 ## 联动
 drawio
 markdown
-
+Office
+[联动Leetcode](https://blog.csdn.net/qq_45436706/article/details/106957473)；[联动2](https://juejin.cn/post/6844904105782018055)；[联动3](https://github.com/LeetCode-OpenSource/vscode-leetcode/blob/master/docs/README_zh-CN.md)；
 
 # Unity 1
 
@@ -109,5 +110,5 @@ markdown
 
 [Unity编译Android的原理解析和apk打包分析 - 偶素浅小浅 - 博客园](https://www.cnblogs.com/purpleraintear/p/6403036.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDEzMzk3MSwtNTQxMzc0NzU4XX0=
+eyJoaXN0b3J5IjpbLTE5ODU5MjE0ODMsLTU0MTM3NDc1OF19
 -->

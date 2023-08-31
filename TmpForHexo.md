@@ -132,7 +132,10 @@ LaTex模板
 
 PDF格式的图片要求"all fonts are embedded"？
 > [如何给PDF嵌入相关字体](https://blog.csdn.net/qq_34823218/article/details/120883050)
+
+# 绘图微调👉Adobe Illustrator👍
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDYxMjUxOTMsNjk2MzQzNTA2LC01ND
-EzNzQ3NThdfQ==
+eyJoaXN0b3J5IjpbMTg1MDkzOTcwNSwtMTUwNjEyNTE5Myw2OT
+YzNDM1MDYsLTU0MTM3NDc1OF19
 -->

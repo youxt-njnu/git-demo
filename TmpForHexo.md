@@ -42,7 +42,8 @@ fn+esc切换功能键
 
 > Written with [StackEdit中文版](https://stackedit.cn/).
 
-## MySQL
+# MySQL
+## 安装配置
 [MySQL安装配置教程](https://blog.csdn.net/SoloVersion/article/details/123760428)
 
 [完美解决MySQL ERROR:Access denied for user `root`@`localhost` (using password:YES)_xl132598798的博客-CSDN博客](https://blog.csdn.net/xl132598798/article/details/106342240)
@@ -53,7 +54,9 @@ fn+esc切换功能键
 
 [Can‘t connect to MySQL server on ‘localhost:3306‘ (10061)_Where-to-go的博客-CSDN博客](https://blog.csdn.net/weixin_45523183/article/details/116358192)
 
+## 联动
 [Unity连接MySql，The given key was not present in the dictionary 错误原因及解决办法_ 木头的博客-CSDN博客](https://blog.csdn.net/pstj123456/article/details/105999672)
+
 
 # VSCode
 ## 配置使用
@@ -109,6 +112,8 @@ Office
 [Unity打包Android最全攻略（含完整流程及常见问题） - 知乎](https://zhuanlan.zhihu.com/p/113007406)
 
 [Unity编译Android的原理解析和apk打包分析 - 偶素浅小浅 - 博客园](https://www.cnblogs.com/purpleraintear/p/6403036.html)
+
+> Written with [StackEdit中文版](https://stackedit.cn/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODU5MjE0ODMsLTU0MTM3NDc1OF19
+eyJoaXN0b3J5IjpbNjk2MzQzNTA2LC01NDEzNzQ3NThdfQ==
 -->

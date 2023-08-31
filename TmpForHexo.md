@@ -122,7 +122,9 @@ Office
 
 
 ## 模板？
-wordmo'ban
+word模板
+
+LaTex模板
 
 ## 细节要求？
 8 points是啥意思？
@@ -131,6 +133,6 @@ wordmo'ban
 PDF格式的图片要求"all fonts are embedded"？
 > [如何给PDF嵌入相关字体](https://blog.csdn.net/qq_34823218/article/details/120883050)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNDc5MTc3LDY5NjM0MzUwNiwtNTQxMz
-c0NzU4XX0=
+eyJoaXN0b3J5IjpbLTE1MDYxMjUxOTMsNjk2MzQzNTA2LC01ND
+EzNzQ3NThdfQ==
 -->

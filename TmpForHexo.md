@@ -5,7 +5,23 @@
 
 > Written with [StackEdit中文版](https://stackedit.cn/).
 
-# 罗技产品 Logi K580
+# 罗技产品应用技巧
+## Logi Pepple
+设备设置技巧
+快捷键
+延寿注意点
+## Logi Pop Mouse
+设备设置技巧
+快捷键
+延寿注意点
+## Logi K380
+设备设置技巧
+快捷键
+延寿注意点
+## Logi K580
+设备设置技巧
+快捷键
+延寿注意点
 
 通道1：pad or phone
 
@@ -22,5 +38,5 @@ Android，切换该布局FN+9下3秒钟；
 fn+esc切换功能键
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzUxNjYwMV19
+eyJoaXN0b3J5IjpbLTYwMzg1MjgwMV19
 -->

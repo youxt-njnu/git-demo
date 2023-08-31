@@ -42,7 +42,66 @@ fn+esc切换功能键
 
 > Written with [StackEdit中文版](https://stackedit.cn/).
 
+## MySQL
+[MySQL安装配置教程](https://blog.csdn.net/SoloVersion/article/details/123760428)
 
+[完美解决MySQL ERROR:Access denied for user `root`@`localhost` (using password:YES)_xl132598798的博客-CSDN博客](https://blog.csdn.net/xl132598798/article/details/106342240)
+
+[Can‘t connect to MySQL server on ‘localhost:3306‘ (10061)_Where-to-go的博客-CSDN博客](https://blog.csdn.net/weixin_45523183/article/details/116358192)
+
+[MySql错误 1251 - Client does not support authentication protocol requested by server 解决方案_1251 client does not support authentication_阿燃i的博客-CSDN博客](https://blog.csdn.net/OCEAN_C/article/details/89719578)
+
+[Unity连接MySql，The given key was not present in the dictionary 错误原因及解决办法_ 木头的博客-CSDN博客](https://blog.csdn.net/pstj123456/article/details/105999672)
+
+[Can‘t connect to MySQL server on ‘localhost:3306‘ (10061)_Where-to-go的博客-CSDN博客](https://blog.csdn.net/weixin_45523183/article/details/116358192)
+
+## VSCOde配置使用
+[VS code修改插件安装位置的简易办法](https://blog.csdn.net/weixin_43031092/article/details/109214231)
+
+[vs基本使用](https://zhuanlan.zhihu.com/p/71110525)
+
+[vs快捷键设置](https://blog.csdn.net/qq_51485453/article/details/123214455)
+
+[vs瘦身](https://blog.csdn.net/a358763471/article/details/115856513)
+
+[查看和给vscode从c盘瘦身](https://blog.csdn.net/Tisfy/article/details/126082324)
+[联动Leetcode](https://blog.csdn.net/qq_45436706/article/details/106957473)；[联动2](https://juejin.cn/post/6844904105782018055)；[联动3](https://github.com/LeetCode-OpenSource/vscode-leetcode/blob/master/docs/README_zh-CN.md)；
+
+联动draw.io;
+
+联动jupyter、python；
+
+联动前端；
+
+联动[copilot](https://www.cnblogs.com/gigabit/p/16102097.html)、[官网](https://github.com/features/copilot)
+
+# Unity 1
+
+## Unity安装
+
+[unity内容从c盘迁移到d盘](https://gitee.com/chutianshu1981/AwesomeUnityTutorial/blob/main/%E9%98%B2%E6%AD%A2%20unity%20%E5%90%83%E6%8E%89%E4%BD%A0%E7%9A%84%E7%B3%BB%E7%BB%9F%E7%A1%AC%E7%9B%98.md)
+
+## 环境配置
+[JDK安装教程（保姆式详解） - 知乎](https://zhuanlan.zhihu.com/p/618158094)
+
+
+[(76条消息) 下载安装Android SDK及环境配置（超详细）_android sdk下载安装及配置教程_兔子耳朵toy的博客-CSDN博客](https://blog.csdn.net/sinat_62012394/article/details/130491386)
+
+[Unity编译Android的原理解析和apk打包分析 - 偶素浅小浅 - 博客园](https://www.cnblogs.com/purpleraintear/p/6403036.html)
+
+[Android SDK的下载与安装 - 酒剑仙* - 博客园](https://www.cnblogs.com/auguse/p/13807169.html)
+
+[(76条消息) Unity Hub安装Android环境 (Unity2019及以上支持)_unityhub安装2019版本_zhanghow的博客-CSDN博客](https://blog.csdn.net/zhanghow/article/details/115014303)
+
+[(76条消息) Unity-Android常见的那些骚操作_PangPangPig123的博客-CSDN博客](https://blog.csdn.net/PangPangPig123/article/details/113547693)
+
+[Unity配置安卓环境（详细、简单）_unity怎么配置安卓环境_小叶学习塔的博客-CSDN博客](https://blog.csdn.net/weixin_44733991/article/details/127134147)
+
+
+## 打包配置
+[Unity打包Android最全攻略（含完整流程及常见问题） - 知乎](https://zhuanlan.zhihu.com/p/113007406)
+
+[Unity打包Android最全攻略（含完整流程及常见问题） - 知乎](https://zhuanlan.zhihu.com/p/113007406)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTM3NDc1OF19
+eyJoaXN0b3J5IjpbMjg3NTg3MjU0LC01NDEzNzQ3NThdfQ==
 -->

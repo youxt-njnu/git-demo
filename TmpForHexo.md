@@ -114,6 +114,10 @@ Office
 [Unity编译Android的原理解析和apk打包分析 - 偶素浅小浅 - 博客园](https://www.cnblogs.com/purpleraintear/p/6403036.html)
 
 > Written with [StackEdit中文版](https://stackedit.cn/).
+
+
+# 论文发表怎么符合期刊要求
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2MzQzNTA2LC01NDEzNzQ3NThdfQ==
+eyJoaXN0b3J5IjpbNDc3Mzk1MjE5LDY5NjM0MzUwNiwtNTQxMz
+c0NzU4XX0=
 -->

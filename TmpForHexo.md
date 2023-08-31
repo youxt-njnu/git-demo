@@ -7,16 +7,21 @@
 
 # 罗技产品应用技巧
 ## Logi Pepple
-设备设置技巧
-快捷键
-延寿注意点
+### 设备设置技巧
+### 快捷键
+### 延寿注意点
+抗摔，但还是少摔！！
+本人的鼠标已经
 ## Logi Pop Mouse
-设备设置技巧
-快捷键
-延寿注意点
+### 设备设置技巧
+跨设备Flow
+鼠标中键
+### 快捷键
+
 ## Logi K380
 ### 设备设置技巧
-## 快捷键
+
+### 快捷键
 
 ## Logi K580
 
@@ -35,5 +40,5 @@ fn+esc切换功能键
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg2NzY2NTJdfQ==
+eyJoaXN0b3J5IjpbLTcyMzI0NjE2MV19
 -->

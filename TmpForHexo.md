@@ -8,10 +8,12 @@
 # 罗技产品应用技巧
 ## Logi Pepple
 ### 设备设置技巧
-### 快捷键
+
 ### 延寿注意点
 抗摔，但还是少摔！！
-本人的鼠标已经
+本人的鼠标已经是服役暮年了，鼠标右键不灵，蓝牙不灵。
+为了延寿常用点，右键不灵在windows系统上的替代方案就是转战触控板/(ㄒoㄒ)/~~
+
 ## Logi Pop Mouse
 ### 设备设置技巧
 跨设备Flow
@@ -40,5 +42,5 @@ fn+esc切换功能键
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzI0NjE2MV19
+eyJoaXN0b3J5IjpbLTEyMzQ0MjgwMThdfQ==
 -->

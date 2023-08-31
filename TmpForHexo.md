@@ -121,8 +121,9 @@ Office
 > 需要发表一篇英文论文，于是官网上苦读发表须知，于是进行了相应的记录。。。
 
 ## 字体、字号要求？
-https://www.runoob.com/w3cnote/px-pt-em-convert-table.html
+10 points是啥意思？[px,pt,em换算表](https://www.runoob.com/w3cnote/px-pt-em-convert-table.html)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY5OTM3NTIsNjk2MzQzNTA2LC01ND
-EzNzQ3NThdfQ==
+eyJoaXN0b3J5IjpbLTc0MzQwODY0MSw2OTYzNDM1MDYsLTU0MT
+M3NDc1OF19
 -->

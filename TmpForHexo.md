@@ -87,7 +87,6 @@ fn+esc切换功能键
 
 [(76条消息) 下载安装Android SDK及环境配置（超详细）_android sdk下载安装及配置教程_兔子耳朵toy的博客-CSDN博客](https://blog.csdn.net/sinat_62012394/article/details/130491386)
 
-[Unity编译Android的原理解析和apk打包分析 - 偶素浅小浅 - 博客园](https://www.cnblogs.com/purpleraintear/p/6403036.html)
 
 [Android SDK的下载与安装 - 酒剑仙* - 博客园](https://www.cnblogs.com/auguse/p/13807169.html)
 
@@ -102,6 +101,8 @@ fn+esc切换功能键
 [Unity打包Android最全攻略（含完整流程及常见问题） - 知乎](https://zhuanlan.zhihu.com/p/113007406)
 
 [Unity打包Android最全攻略（含完整流程及常见问题） - 知乎](https://zhuanlan.zhihu.com/p/113007406)
+
+[Unity编译Android的原理解析和apk打包分析 - 偶素浅小浅 - 博客园](https://www.cnblogs.com/purpleraintear/p/6403036.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3NTg3MjU0LC01NDEzNzQ3NThdfQ==
+eyJoaXN0b3J5IjpbLTE4ODk5MjkzMjYsLTU0MTM3NDc1OF19
 -->

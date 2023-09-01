@@ -28,7 +28,7 @@ Corpus of Contemporary American English
 
 # 润色机构
 AJE
-Editageyi'de'ji
+Editage易得辑
 
 提供的服务随着不同的方案而不同，专业性高，而且可以全流程进行润色、按照期刊要求进行格式调整，比较省心省力；
 
@@ -39,7 +39,7 @@ Editageyi'de'ji
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk0OTcyMSw3NDg2NzI1NDgsOTk1NT
+eyJoaXN0b3J5IjpbLTY4MzgzNTE0OCw3NDg2NzI1NDgsOTk1NT
 kwMTIsLTE2NDk5MjQ1MTgsMzE1MzM0NjI2LC0yMDMwODkwNTAy
 LDEwODczOTEyNTMsLTE1MDYxMjUxOTMsNjk2MzQzNTA2LC01ND
 EzNzQ3NThdfQ==

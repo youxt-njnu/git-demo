@@ -28,7 +28,9 @@ Corpus of Contemporary American English
 
 # 润色机构
 AJE
-Editage
+Editageyi'de'ji
+
+提供的服务随着不同的方案而不同，专业性高，而且可以全流程进行润色、按照期刊要求进行格式调整，比较省心省力；
 
 # AI润色
 以ChatGPT为代表的生成式AI类工具，对学术写作、翻译和润色方面提供便捷，但也存在词不达意问题，需要注意审查数据安全问题和伦理[问题](https://cn.scientific-publishing.webshop.elsevier.com/research-process-cn/the-dangers-of-ai-assisted-academic-writing/)。
@@ -37,7 +39,7 @@ Editage
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTYzODEzMyw3NDg2NzI1NDgsOTk1NT
+eyJoaXN0b3J5IjpbLTE0NTk0OTcyMSw3NDg2NzI1NDgsOTk1NT
 kwMTIsLTE2NDk5MjQ1MTgsMzE1MzM0NjI2LC0yMDMwODkwNTAy
 LDEwODczOTEyNTMsLTE1MDYxMjUxOTMsNjk2MzQzNTA2LC01ND
 EzNzQ3NThdfQ==

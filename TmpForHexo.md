@@ -1,7 +1,7 @@
 
 # 论文"英文化"
 ## 中文打底
-
+Academic Phrasebank
 ## 直接翻译
 欧路词典
 Google Translate
@@ -11,10 +11,12 @@ ludwig.guru
 Netspeak
 Linguee
 Linggle
+Corpus of Contemporary American English
 ## 润色机构
-
+AJE
+Editage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMzgwMjY5LC0yMDMwODkwNTAyLDEwOD
-czOTEyNTMsLTE1MDYxMjUxOTMsNjk2MzQzNTA2LC01NDEzNzQ3
-NThdfQ==
+eyJoaXN0b3J5IjpbLTU2NzQzODc2OCwtMjAzMDg5MDUwMiwxMD
+g3MzkxMjUzLC0xNTA2MTI1MTkzLDY5NjM0MzUwNiwtNTQxMzc0
+NzU4XX0=
 -->

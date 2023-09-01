@@ -37,13 +37,15 @@ Grammarly
 [wordvice语法检查](https://wordvice.ai/cn)
 
 
-# 润色机构和软件
+# 润色机构
 AJE
 Editage易得辑
 
 提供的服务随着不同的方案而不同，专业性高，而且可以全流程进行润色、按照期刊要求进行格式调整，比较省心省力；
 
+
 # AI润色
+
 以ChatGPT为代表的生成式AI类工具，对学术写作、翻译和润色方面提供便捷，但也存在词不达意问题，需要注意审查数据安全问题和伦理[问题](https://cn.scientific-publishing.webshop.elsevier.com/research-process-cn/the-dangers-of-ai-assisted-academic-writing/)。
 
 各大润色机构推出的润色工具，如[AJE AI润色](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=http://www.nwipb.cas.cn/lib/tsggg/202211/P020221104644966552589.pdf)；
@@ -52,7 +54,7 @@ Editage易得辑
 
 https://www.wordtune.com/plans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM3NzM2NTAsLTY4MzgzNTE0OCw3ND
+eyJoaXN0b3J5IjpbLTIwMDQ0OTk3MjMsLTY4MzgzNTE0OCw3ND
 g2NzI1NDgsOTk1NTkwMTIsLTE2NDk5MjQ1MTgsMzE1MzM0NjI2
 LC0yMDMwODkwNTAyLDEwODczOTEyNTMsLTE1MDYxMjUxOTMsNj
 k2MzQzNTA2LC01NDEzNzQ3NThdfQ==

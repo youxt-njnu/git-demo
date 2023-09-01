@@ -11,7 +11,9 @@ Google Translate
 DeepL
 ## 语言细节
 ludwig.guru
+> [教程参考](https://zhuanlan.zhihu.com/p/142658414)
 Netspeak
+> 
 Linguee
 Linggle
 Corpus of Contemporary American English
@@ -19,7 +21,7 @@ Corpus of Contemporary American English
 AJE
 Editage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MzM0NjI2LC0yMDMwODkwNTAyLDEwOD
-czOTEyNTMsLTE1MDYxMjUxOTMsNjk2MzQzNTA2LC01NDEzNzQ3
-NThdfQ==
+eyJoaXN0b3J5IjpbNTQyMzMwNjk4LDMxNTMzNDYyNiwtMjAzMD
+g5MDUwMiwxMDg3MzkxMjUzLC0xNTA2MTI1MTkzLDY5NjM0MzUw
+NiwtNTQxMzc0NzU4XX0=
 -->

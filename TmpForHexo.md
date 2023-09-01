@@ -1,7 +1,8 @@
 
 # 论文"英文化"
 ## 中文打底
-Academic Phrasebank
+[Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/introducing-work/)
+
 ## 直接翻译
 欧路词典
 Google Translate
@@ -16,7 +17,7 @@ Corpus of Contemporary American English
 AJE
 Editage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzQzODc2OCwtMjAzMDg5MDUwMiwxMD
+eyJoaXN0b3J5IjpbLTg4NDkwOTcxMCwtMjAzMDg5MDUwMiwxMD
 g3MzkxMjUzLC0xNTA2MTI1MTkzLDY5NjM0MzUwNiwtNTQxMzc0
 NzU4XX0=
 -->

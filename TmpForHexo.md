@@ -3,14 +3,18 @@
 ## 中文打底
 
 ## 直接翻译
+欧路词典
 Google Translate
-
+DeepL
 ## 语言细节
-
+ludwig.guru
+Netspeak
+Linguee
+Linggle
 ## 润色机构
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY5NzE5MTEsLTIwMzA4OTA1MDIsMT
-A4NzM5MTI1MywtMTUwNjEyNTE5Myw2OTYzNDM1MDYsLTU0MTM3
-NDc1OF19
+eyJoaXN0b3J5IjpbNjcwMzgwMjY5LC0yMDMwODkwNTAyLDEwOD
+czOTEyNTMsLTE1MDYxMjUxOTMsNjk2MzQzNTA2LC01NDEzNzQ3
+NThdfQ==
 -->

@@ -48,14 +48,14 @@ Editage易得辑
 
 以ChatGPT为代表的生成式AI类工具，对学术写作、翻译和润色方面提供便捷，但也存在词不达意问题，需要注意审查数据安全问题和伦理[问题](https://cn.scientific-publishing.webshop.elsevier.com/research-process-cn/the-dangers-of-ai-assisted-academic-writing/)。
 
-各大润色机构推出的润色工具，如[AJE AI润色](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=http://www.nwipb.cas.cn/lib/tsggg/202211/P020221104644966552589.pdf)；
+各大润色机构推出的润色工具，如[AJE AI润色](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=http://www.nwipb.cas.cn/lib/tsggg/202211/P020221104644966552589.pdf)
 
 [学术版chatpgt](https://www.qbitai.com/2023/04/43347.html)
 
-https://www.wordtune.com/plans
+[wordtune](https://www.wordtune.com/plans)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQ0OTk3MjMsLTY4MzgzNTE0OCw3ND
-g2NzI1NDgsOTk1NTkwMTIsLTE2NDk5MjQ1MTgsMzE1MzM0NjI2
-LC0yMDMwODkwNTAyLDEwODczOTEyNTMsLTE1MDYxMjUxOTMsNj
-k2MzQzNTA2LC01NDEzNzQ3NThdfQ==
+eyJoaXN0b3J5IjpbMjA3NDYxMDM0OSwtMjAwNDQ5OTcyMywtNj
+gzODM1MTQ4LDc0ODY3MjU0OCw5OTU1OTAxMiwtMTY0OTkyNDUx
+OCwzMTUzMzQ2MjYsLTIwMzA4OTA1MDIsMTA4NzM5MTI1MywtMT
+UwNjEyNTE5Myw2OTYzNDM1MDYsLTU0MTM3NDc1OF19
 -->

@@ -28,6 +28,7 @@ Corpus of Contemporary American English
 
 Grammarly
 > 语法校对工具，能检测并纠正拼写、语法、标点符号等错误，同时进行建议和改进
+> 类似的：[GINGER](https://www.gingersoftware.com/)、
 
 [Hemingway Editor](https://hemingwayapp.com/)
 
@@ -47,10 +48,12 @@ Editage易得辑
 
 各大润色机构推出的润色工具，如[AJE AI润色](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=http://www.nwipb.cas.cn/lib/tsggg/202211/P020221104644966552589.pdf)；
 
+[学术版chatpgt](https://www.qbitai.com/2023/04/43347.html)
 
+https://www.wordtune.com/plans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM4MjY2NSwtNjgzODM1MTQ4LDc0OD
-Y3MjU0OCw5OTU1OTAxMiwtMTY0OTkyNDUxOCwzMTUzMzQ2MjYs
-LTIwMzA4OTA1MDIsMTA4NzM5MTI1MywtMTUwNjEyNTE5Myw2OT
-YzNDM1MDYsLTU0MTM3NDc1OF19
+eyJoaXN0b3J5IjpbLTE5MDYxNDc0OTUsLTY4MzgzNTE0OCw3ND
+g2NzI1NDgsOTk1NTkwMTIsLTE2NDk5MjQ1MTgsMzE1MzM0NjI2
+LC0yMDMwODkwNTAyLDEwODczOTEyNTMsLTE1MDYxMjUxOTMsNj
+k2MzQzNTA2LC01NDEzNzQ3NThdfQ==
 -->

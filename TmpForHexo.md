@@ -37,7 +37,7 @@ Grammarly
 [wordvice语法检查](https://wordvice.ai/cn)
 
 
-# 润色机构
+# 润色机构和软件
 AJE
 Editage易得辑
 
@@ -52,7 +52,7 @@ Editage易得辑
 
 https://www.wordtune.com/plans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDYxNDc0OTUsLTY4MzgzNTE0OCw3ND
+eyJoaXN0b3J5IjpbLTIwNDM3NzM2NTAsLTY4MzgzNTE0OCw3ND
 g2NzI1NDgsOTk1NTkwMTIsLTE2NDk5MjQ1MTgsMzE1MzM0NjI2
 LC0yMDMwODkwNTAyLDEwODczOTEyNTMsLTE1MDYxMjUxOTMsNj
 k2MzQzNTA2LC01NDEzNzQ3NThdfQ==

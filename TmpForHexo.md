@@ -53,9 +53,15 @@ Editage易得辑
 [学术版chatpgt](https://www.qbitai.com/2023/04/43347.html)
 
 [wordtune](https://www.wordtune.com/plans)
+
+
+
+找期刊缩写：
+https://blog.csdn.net/sdbyp/article/details/121413155
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDYxMDM0OSwtMjAwNDQ5OTcyMywtNj
-gzODM1MTQ4LDc0ODY3MjU0OCw5OTU1OTAxMiwtMTY0OTkyNDUx
-OCwzMTUzMzQ2MjYsLTIwMzA4OTA1MDIsMTA4NzM5MTI1MywtMT
-UwNjEyNTE5Myw2OTYzNDM1MDYsLTU0MTM3NDc1OF19
+eyJoaXN0b3J5IjpbLTE1MDUzNzQyMjcsMjA3NDYxMDM0OSwtMj
+AwNDQ5OTcyMywtNjgzODM1MTQ4LDc0ODY3MjU0OCw5OTU1OTAx
+MiwtMTY0OTkyNDUxOCwzMTUzMzQ2MjYsLTIwMzA4OTA1MDIsMT
+A4NzM5MTI1MywtMTUwNjEyNTE5Myw2OTYzNDM1MDYsLTU0MTM3
+NDc1OF19
 -->

@@ -31,11 +31,13 @@ AJE
 Editage
 
 # AI润色
+以ChatGPT为代表的生成式AI类工具，对学术写作、翻译和润色d。AI工具可以在可读性、语法和拼写等方面起到优化论文的作用，为研究者带来便利和帮助
 各大润色机构推出的润色工具，如[AJE AI润色](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=http://www.nwipb.cas.cn/lib/tsggg/202211/P020221104644966552589.pdf)；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NjcyNTQ4LDk5NTU5MDEyLC0xNjQ5OT
-I0NTE4LDMxNTMzNDYyNiwtMjAzMDg5MDUwMiwxMDg3MzkxMjUz
-LC0xNTA2MTI1MTkzLDY5NjM0MzUwNiwtNTQxMzc0NzU4XX0=
+eyJoaXN0b3J5IjpbLTgxMDA4OTM5NCw3NDg2NzI1NDgsOTk1NT
+kwMTIsLTE2NDk5MjQ1MTgsMzE1MzM0NjI2LC0yMDMwODkwNTAy
+LDEwODczOTEyNTMsLTE1MDYxMjUxOTMsNjk2MzQzNTA2LC01ND
+EzNzQ3NThdfQ==
 -->

@@ -1,6 +1,6 @@
 
 论文"英文化"
-# 中文打底
+# 结构表达
  [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/introducing-work/)
 > [教程参考](https://zhuanlan.zhihu.com/p/237582629)
 > 直接针对论文里的不同章节，给出参考的句式；
@@ -9,7 +9,7 @@
 [DeepL](https://www.deepl.com/translator)
 [欧路词典](https://dict.eudic.net/)
 [Google Translate](https://translate.google.com/?hl=en&sl=auto&tl=en&op=translate)
-## 语言细节
+# 语言细节
 ludwig.guru
 > [教程参考](https://zhuanlan.zhihu.com/p/142658414)
 
@@ -25,13 +25,14 @@ Linggle
 Corpus of Contemporary American English
 > [教程参考](https://zhuanlan.zhihu.com/p/128683003)
 
-## 润色机构
+# 润色机构
 AJE
 Editage
 
+# AI润色
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjA4NzYxOCwzMTUzMzQ2MjYsLTIwMz
-A4OTA1MDIsMTA4NzM5MTI1MywtMTUwNjEyNTE5Myw2OTYzNDM1
-MDYsLTU0MTM3NDc1OF19
+eyJoaXN0b3J5IjpbNjkwMzUxODgwLDMxNTMzNDYyNiwtMjAzMD
+g5MDUwMiwxMDg3MzkxMjUzLC0xNTA2MTI1MTkzLDY5NjM0MzUw
+NiwtNTQxMzc0NzU4XX0=
 -->

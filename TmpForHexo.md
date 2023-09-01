@@ -25,7 +25,17 @@ Linggle
 
 Corpus of Contemporary American English
 > [教程参考](https://zhuanlan.zhihu.com/p/128683003)
-> 
+
+Grammarly
+> 语法校对工具，能检测并纠正拼写、语法、标点符号等错误，同时进行建议和改进
+
+3.Hemingway Editor
+
+Hemingway Editor主要针对提高学术论文的可读性而设计。它能够检测并标记句子结构、逻辑和表达等方面的问题，并提供修改建议，使文章更加清晰、流畅。此外，该工具还提供了一系列的写作指南和资源，帮助作者提高写作技巧。
+
+4.Writer's Block
+
+Writer's Block是一款专门为学术论文写作而设计的AI润色工具。它能够检测并纠正拼写、语法、标点符号等错误，同时提供文章结构和逻辑方面的建议，帮助作者优化文章组织和表达。
 
 # 润色机构
 AJE
@@ -40,7 +50,7 @@ Editage易得辑
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDg2MTg2NCwtNjgzODM1MTQ4LDc0OD
+eyJoaXN0b3J5IjpbLTc4NDA3MTQxNCwtNjgzODM1MTQ4LDc0OD
 Y3MjU0OCw5OTU1OTAxMiwtMTY0OTkyNDUxOCwzMTUzMzQ2MjYs
 LTIwMzA4OTA1MDIsMTA4NzM5MTI1MywtMTUwNjEyNTE5Myw2OT
 YzNDM1MDYsLTU0MTM3NDc1OF19

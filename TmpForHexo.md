@@ -9,6 +9,7 @@
 [DeepL](https://www.deepl.com/translator)
 [欧路词典](https://dict.eudic.net/)
 [Google Translate](https://translate.google.com/?hl=en&sl=auto&tl=en&op=translate)
+
 # 语言细节
 ludwig.guru
 > [教程参考](https://zhuanlan.zhihu.com/p/142658414)
@@ -32,7 +33,7 @@ Editage
 # AI润色
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwMzUxODgwLDMxNTMzNDYyNiwtMjAzMD
-g5MDUwMiwxMDg3MzkxMjUzLC0xNTA2MTI1MTkzLDY5NjM0MzUw
-NiwtNTQxMzc0NzU4XX0=
+eyJoaXN0b3J5IjpbLTE2NDk5MjQ1MTgsMzE1MzM0NjI2LC0yMD
+MwODkwNTAyLDEwODczOTEyNTMsLTE1MDYxMjUxOTMsNjk2MzQz
+NTA2LC01NDEzNzQ3NThdfQ==
 -->

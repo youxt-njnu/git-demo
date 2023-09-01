@@ -31,10 +31,11 @@ AJE
 Editage
 
 # AI润色
-各大润色机构推出的润色工具，如；
+各大润色机构推出的润色工具，如[AJE AI润色](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=http://www.nwipb.cas.cn/lib/tsggg/202211/P020221104644966552589.pdf)；
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTg5NjY3OCw5OTU1OTAxMiwtMTY0OT
-kyNDUxOCwzMTUzMzQ2MjYsLTIwMzA4OTA1MDIsMTA4NzM5MTI1
-MywtMTUwNjEyNTE5Myw2OTYzNDM1MDYsLTU0MTM3NDc1OF19
+eyJoaXN0b3J5IjpbNzQ4NjcyNTQ4LDk5NTU5MDEyLC0xNjQ5OT
+I0NTE4LDMxNTMzNDYyNiwtMjAzMDg5MDUwMiwxMDg3MzkxMjUz
+LC0xNTA2MTI1MTkzLDY5NjM0MzUwNiwtNTQxMzc0NzU4XX0=
 -->

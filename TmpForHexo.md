@@ -29,9 +29,9 @@ Corpus of Contemporary American English
 Grammarly
 > 语法校对工具，能检测并纠正拼写、语法、标点符号等错误，同时进行建议和改进
 
-3.Hemingway Editor
+[Hemingway Editor](https://hemingwayapp.com/)
 
-Hemingway Editor主要针对提高学术论文的可读性而设计。它能够检测并标记句子结构、逻辑和表达等方面的问题，并提供修改建议，使文章更加清晰、流畅。此外，该工具还提供了一系列的写作指南和资源，帮助作者提高写作技巧。
+> 检测并标记句子结构、逻辑和表达等方面的问题，并提供修改建议，使文章更加清晰、流畅。此外，该工具还提供了一系列的写作指南和资源，帮助作者提高写作[技巧](https://www.sohu.com/a/702887796_121679860)。
 
 4.Writer's Block
 
@@ -50,8 +50,8 @@ Editage易得辑
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDA3MTQxNCwtNjgzODM1MTQ4LDc0OD
-Y3MjU0OCw5OTU1OTAxMiwtMTY0OTkyNDUxOCwzMTUzMzQ2MjYs
-LTIwMzA4OTA1MDIsMTA4NzM5MTI1MywtMTUwNjEyNTE5Myw2OT
-YzNDM1MDYsLTU0MTM3NDc1OF19
+eyJoaXN0b3J5IjpbLTE2ODg0OTc1NTIsLTY4MzgzNTE0OCw3ND
+g2NzI1NDgsOTk1NTkwMTIsLTE2NDk5MjQ1MTgsMzE1MzM0NjI2
+LC0yMDMwODkwNTAyLDEwODczOTEyNTMsLTE1MDYxMjUxOTMsNj
+k2MzQzNTA2LC01NDEzNzQ3NThdfQ==
 -->

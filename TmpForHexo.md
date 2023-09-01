@@ -2,6 +2,7 @@
 # 论文"英文化"
 ## 中文打底
 [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/introducing-work/)
+[教程参考](https://zhuanlan.zhihu.com/p/237582629)
 
 ## 直接翻译
 欧路词典
@@ -17,7 +18,7 @@ Corpus of Contemporary American English
 AJE
 Editage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDkwOTcxMCwtMjAzMDg5MDUwMiwxMD
-g3MzkxMjUzLC0xNTA2MTI1MTkzLDY5NjM0MzUwNiwtNTQxMzc0
-NzU4XX0=
+eyJoaXN0b3J5IjpbLTExNjc5NzQ3NDUsLTIwMzA4OTA1MDIsMT
+A4NzM5MTI1MywtMTUwNjEyNTE5Myw2OTYzNDM1MDYsLTU0MTM3
+NDc1OF19
 -->

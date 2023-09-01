@@ -1,5 +1,5 @@
 
-论文"英文化"
+# 论文"英文化"
 # 结构表达
  [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/introducing-work/)
 > [教程参考](https://zhuanlan.zhihu.com/p/237582629)
@@ -31,12 +31,13 @@ AJE
 Editage
 
 # AI润色
-以ChatGPT为代表的生成式AI类工具，对学术写作、翻译和润色d。AI工具可以在可读性、语法和拼写等方面起到优化论文的作用，为研究者带来便利和帮助
+以ChatGPT为代表的生成式AI类工具，对学术写作、翻译和润色方面提供便捷，但也存在词不达意问题，需要注意审查数据安全问题和伦理[问题](https://cn.scientific-publishing.webshop.elsevier.com/research-process-cn/the-dangers-of-ai-assisted-academic-writing/)。
+
 各大润色机构推出的润色工具，如[AJE AI润色](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=http://www.nwipb.cas.cn/lib/tsggg/202211/P020221104644966552589.pdf)；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDA4OTM5NCw3NDg2NzI1NDgsOTk1NT
+eyJoaXN0b3J5IjpbMTgyMTYzODEzMyw3NDg2NzI1NDgsOTk1NT
 kwMTIsLTE2NDk5MjQ1MTgsMzE1MzM0NjI2LC0yMDMwODkwNTAy
 LDEwODczOTEyNTMsLTE1MDYxMjUxOTMsNjk2MzQzNTA2LC01ND
 EzNzQ3NThdfQ==

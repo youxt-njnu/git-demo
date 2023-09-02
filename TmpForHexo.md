@@ -11,19 +11,19 @@
 [Google Translate](https://translate.google.com/?hl=en&sl=auto&tl=en&op=translate)
 
 # 语言细节
-ludwig.guru
+[ludwig.guru](https://app.ludwig.guru/s/traffic+planning+network)
 > [教程参考](https://zhuanlan.zhihu.com/p/142658414)
 
-Netspeak
+[Netspeak](https://netspeak.org/)
 > [教程参考](https://www.funglish.com.tw/%E5%9B%9B%E5%80%8B%E5%85%A7%E8%A1%8C%E4%BA%BA%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%AF%AB%E4%BD%9C%E7%A5%9E%E5%99%A8%EF%BC%8C%E8%AE%93%E4%BD%A0%E4%BA%8B%E5%8D%8A%E5%8A%9F%E5%80%8D%E5%AF%AB%E5%87%BA/)
 
-Linguee
+[Linguee](https://www.linguee.com/)
 > [教程参考](https://www.funglish.com.tw/%E5%9B%9B%E5%80%8B%E5%85%A7%E8%A1%8C%E4%BA%BA%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%AF%AB%E4%BD%9C%E7%A5%9E%E5%99%A8%EF%BC%8C%E8%AE%93%E4%BD%A0%E4%BA%8B%E5%8D%8A%E5%8A%9F%E5%80%8D%E5%AF%AB%E5%87%BA/)
 
-Linggle
+[Linggle](https://linggle.com/)
 > [教程参考](https://zhuanlan.zhihu.com/p/87499946)
 
-Corpus of Contemporary American English
+[Corpus of Contemporary American English](https://www.english-corpora.org/coca/)
 > [教程参考](https://zhuanlan.zhihu.com/p/128683003)
 
 Grammarly
@@ -59,9 +59,9 @@ Editage易得辑
 找期刊缩写：
 https://blog.csdn.net/sdbyp/article/details/121413155
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDUzNzQyMjcsMjA3NDYxMDM0OSwtMj
-AwNDQ5OTcyMywtNjgzODM1MTQ4LDc0ODY3MjU0OCw5OTU1OTAx
-MiwtMTY0OTkyNDUxOCwzMTUzMzQ2MjYsLTIwMzA4OTA1MDIsMT
-A4NzM5MTI1MywtMTUwNjEyNTE5Myw2OTYzNDM1MDYsLTU0MTM3
-NDc1OF19
+eyJoaXN0b3J5IjpbMTkxNTI0MTg1MCwtMTUwNTM3NDIyNywyMD
+c0NjEwMzQ5LC0yMDA0NDk5NzIzLC02ODM4MzUxNDgsNzQ4Njcy
+NTQ4LDk5NTU5MDEyLC0xNjQ5OTI0NTE4LDMxNTMzNDYyNiwtMj
+AzMDg5MDUwMiwxMDg3MzkxMjUzLC0xNTA2MTI1MTkzLDY5NjM0
+MzUwNiwtNTQxMzc0NzU4XX0=
 -->

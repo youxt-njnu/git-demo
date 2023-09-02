@@ -1,9 +1,12 @@
 
 # 论文"英文化"
 # 结构表达
+[如何写好英文科学论文？](https://mp.weixin.qq.com/s/MoFRsYS6aG1u0EYPjGii3g)
+
  [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/introducing-work/)
 > [教程参考](https://zhuanlan.zhihu.com/p/237582629)
 > 直接针对论文里的不同章节，给出参考的句式；
+
 
 # 直接翻译
 [DeepL](https://www.deepl.com/translator)
@@ -59,9 +62,9 @@ Editage易得辑
 找期刊缩写：
 https://blog.csdn.net/sdbyp/article/details/121413155
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTI0MTg1MCwtMTUwNTM3NDIyNywyMD
-c0NjEwMzQ5LC0yMDA0NDk5NzIzLC02ODM4MzUxNDgsNzQ4Njcy
-NTQ4LDk5NTU5MDEyLC0xNjQ5OTI0NTE4LDMxNTMzNDYyNiwtMj
-AzMDg5MDUwMiwxMDg3MzkxMjUzLC0xNTA2MTI1MTkzLDY5NjM0
-MzUwNiwtNTQxMzc0NzU4XX0=
+eyJoaXN0b3J5IjpbMTUwNzg1NTU1LC0xNTA1Mzc0MjI3LDIwNz
+Q2MTAzNDksLTIwMDQ0OTk3MjMsLTY4MzgzNTE0OCw3NDg2NzI1
+NDgsOTk1NTkwMTIsLTE2NDk5MjQ1MTgsMzE1MzM0NjI2LC0yMD
+MwODkwNTAyLDEwODczOTEyNTMsLTE1MDYxMjUxOTMsNjk2MzQz
+NTA2LC01NDEzNzQ3NThdfQ==
 -->

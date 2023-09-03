@@ -74,10 +74,23 @@ https://blog.csdn.net/sdbyp/article/details/121413155
 > - Z曲线、希尔伯特曲线降维的索引
 
 [空间数据结构](https://www.cnblogs.com/KillerAery/p/10878367.html)，用于提高数据的检索和查询的效率。
+
+
+[Geohash基本原理](https://www.cnblogs.com/tgzhu/p/6204173.html)
+
+> 注重隐私，方便缓存
+
+[空间填充曲线和降维对比](https://www.cnblogs.com/tgzhu/p/8286616.html)
+
+[浮点数数据类型的解释](https://akaedu.github.io/book/ch14s04.html)
+
+> 有一个符号位，然后还规定了小数位的标准化，所以可以省去一个位（这个是一定为1的）；偏移量也是有用的
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTM5MjM5OSwxNTA3ODU1NTUsLTE1MD
-UzNzQyMjcsMjA3NDYxMDM0OSwtMjAwNDQ5OTcyMywtNjgzODM1
-MTQ4LDc0ODY3MjU0OCw5OTU1OTAxMiwtMTY0OTkyNDUxOCwzMT
-UzMzQ2MjYsLTIwMzA4OTA1MDIsMTA4NzM5MTI1MywtMTUwNjEy
-NTE5Myw2OTYzNDM1MDYsLTU0MTM3NDc1OF19
+eyJoaXN0b3J5IjpbLTE2MDY4MDQ5NzEsMTY2MTM5MjM5OSwxNT
+A3ODU1NTUsLTE1MDUzNzQyMjcsMjA3NDYxMDM0OSwtMjAwNDQ5
+OTcyMywtNjgzODM1MTQ4LDc0ODY3MjU0OCw5OTU1OTAxMiwtMT
+Y0OTkyNDUxOCwzMTUzMzQ2MjYsLTIwMzA4OTA1MDIsMTA4NzM5
+MTI1MywtMTUwNjEyNTE5Myw2OTYzNDM1MDYsLTU0MTM3NDc1OF
+19
 -->

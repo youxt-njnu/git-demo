@@ -63,8 +63,10 @@ Editage易得辑
 https://blog.csdn.net/sdbyp/article/details/121413155
 
 # Z曲线相关
-> 第三篇论文走起
-> 
+
+> 第三篇论文开始，先看了些相关知识点
+
+
 [地理空间索引实现：z 曲线、希尔伯特曲线、四叉树, 最邻近几何特征查询、范围查询](https://blog.51cto.com/u_15428122/4569829)
 
 > 空间索引是对存储在介质上的数据位置信息的描述，用来提高系统对数据获取的效率。
@@ -89,10 +91,10 @@ https://blog.csdn.net/sdbyp/article/details/121413155
 > 有一个符号位，然后还规定了小数位的标准化，所以可以省去一个位（这个是一定为1的）；偏移量也是有用的
 > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzNjM5MTE1LC0xNjA2ODA0OTcxLDE2Nj
-EzOTIzOTksMTUwNzg1NTU1LC0xNTA1Mzc0MjI3LDIwNzQ2MTAz
-NDksLTIwMDQ0OTk3MjMsLTY4MzgzNTE0OCw3NDg2NzI1NDgsOT
-k1NTkwMTIsLTE2NDk5MjQ1MTgsMzE1MzM0NjI2LC0yMDMwODkw
-NTAyLDEwODczOTEyNTMsLTE1MDYxMjUxOTMsNjk2MzQzNTA2LC
-01NDEzNzQ3NThdfQ==
+eyJoaXN0b3J5IjpbMTcyMjg1MzQ4OCwtMTYwNjgwNDk3MSwxNj
+YxMzkyMzk5LDE1MDc4NTU1NSwtMTUwNTM3NDIyNywyMDc0NjEw
+MzQ5LC0yMDA0NDk5NzIzLC02ODM4MzUxNDgsNzQ4NjcyNTQ4LD
+k5NTU5MDEyLC0xNjQ5OTI0NTE4LDMxNTMzNDYyNiwtMjAzMDg5
+MDUwMiwxMDg3MzkxMjUzLC0xNTA2MTI1MTkzLDY5NjM0MzUwNi
+wtNTQxMzc0NzU4XX0=
 -->

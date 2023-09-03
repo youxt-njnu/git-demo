@@ -64,23 +64,15 @@ https://blog.csdn.net/sdbyp/article/details/121413155
 
 # Z曲线相关
 [地理空间索引实现：z 曲线、希尔伯特曲线、四叉树, 最邻近几何特征查询、范围查询](https://blog.51cto.com/u_15428122/4569829)
-<![endif]-->
 
-空间索引是对存储在介质上的数据位置信息的描述，用来提高系统对数据获取的效率
-
+空间索引是对存储在介质上的数据位置信息的描述，用来提高系统对数据获取的效率。
 依据空间对象的位置和形状，或对象之间的空间关系，按一定顺序排列的数据结构，用于**快速定位到控件对象**
 
-对象范围索引
+ - 对象范围索引 格网空间索引 四叉树空间索引 R树、R+树空间索引 Z曲线、希尔伯特曲线降维的索引
 
-格网空间索引
-
-四叉树空间索引
-
-R树、R+树空间索引
-
-Z曲线、希尔伯特曲线降维的索引
+[空间数据结构](https://www.cnblogs.com/KillerAery/p/10878367.html)，用于提高数据的检索和查询的效率。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTIwNzEwMCwxNTA3ODU1NTUsLTE1MD
+eyJoaXN0b3J5IjpbMTA2MTQyNzI2MSwxNTA3ODU1NTUsLTE1MD
 UzNzQyMjcsMjA3NDYxMDM0OSwtMjAwNDQ5OTcyMywtNjgzODM1
 MTQ4LDc0ODY3MjU0OCw5OTU1OTAxMiwtMTY0OTkyNDUxOCwzMT
 UzMzQ2MjYsLTIwMzA4OTA1MDIsMTA4NzM5MTI1MywtMTUwNjEy

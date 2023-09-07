@@ -31,9 +31,9 @@
 # unity-Github实践
 新建Github仓库，gitignore选择unity；
 
-GitHub在
+GitHub在环境切换中的应用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODU3MTg2NCwxNjE2ODIzODk3LDE4Mz
+eyJoaXN0b3J5IjpbLTMyNDY3NzQ1OCwxNjE2ODIzODk3LDE4Mz
 UwMzc0NjMsMTcyMjg1MzQ4OCwtMTYwNjgwNDk3MSwxNjYxMzky
 Mzk5LDE1MDc4NTU1NSwtMTUwNTM3NDIyNywyMDc0NjEwMzQ5LC
 0yMDA0NDk5NzIzLC02ODM4MzUxNDgsNzQ4NjcyNTQ4LDk5NTU5

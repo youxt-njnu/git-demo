@@ -28,6 +28,9 @@
 > 有一个符号位，然后还规定了小数位的标准化，所以可以省去一个位（这个是一定为1的）；偏移量也是有用的
 > 
 
+**hadoop、mapreduce、docker**
+[hadoop菜鸟教程](https://www.runoob.com/w3cnote/hadoop-tutorial.html)
+
 # unity-版本控制
 ## GitHub
 新建Github仓库，gitignore选择unity；
@@ -37,11 +40,11 @@ GitHub在环境切换中的应用
 ## Plastic SCM
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMyNzQwNjUsLTMyNDY3NzQ1OCwxNj
-E2ODIzODk3LDE4MzUwMzc0NjMsMTcyMjg1MzQ4OCwtMTYwNjgw
-NDk3MSwxNjYxMzkyMzk5LDE1MDc4NTU1NSwtMTUwNTM3NDIyNy
-wyMDc0NjEwMzQ5LC0yMDA0NDk5NzIzLC02ODM4MzUxNDgsNzQ4
-NjcyNTQ4LDk5NTU5MDEyLC0xNjQ5OTI0NTE4LDMxNTMzNDYyNi
-wtMjAzMDg5MDUwMiwxMDg3MzkxMjUzLC0xNTA2MTI1MTkzLDY5
-NjM0MzUwNl19
+eyJoaXN0b3J5IjpbLTExNjQzMzkxNzcsLTE0NDMyNzQwNjUsLT
+MyNDY3NzQ1OCwxNjE2ODIzODk3LDE4MzUwMzc0NjMsMTcyMjg1
+MzQ4OCwtMTYwNjgwNDk3MSwxNjYxMzkyMzk5LDE1MDc4NTU1NS
+wtMTUwNTM3NDIyNywyMDc0NjEwMzQ5LC0yMDA0NDk5NzIzLC02
+ODM4MzUxNDgsNzQ4NjcyNTQ4LDk5NTU5MDEyLC0xNjQ5OTI0NT
+E4LDMxNTMzNDYyNiwtMjAzMDg5MDUwMiwxMDg3MzkxMjUzLC0x
+NTA2MTI1MTkzXX0=
 -->

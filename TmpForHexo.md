@@ -48,7 +48,7 @@ GitHub在环境切换中的应用
 通过一些基础的属性来描述这些概念，属性包括了十五本身的性质、行为、和其他事物的关系；
 属性相同，即使名称不同，仍然是一个事物，如土豆和马铃薯。
 
-米搜狐概念可以采用自然语言、形式语言
+描述概念可以采用自然语言、形式语言；
 软件工程师的工作就是对现实事物进行形式化，将描述需求的自然语言转换为代码这种形式语言。
 
 
@@ -60,7 +60,7 @@ GitHub在环境切换中的应用
 
 ## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwOTg0NTU4LC0xMTY0MzM5MTc3LC0xND
+eyJoaXN0b3J5IjpbMTE1ODE4NzE1LC0xMTY0MzM5MTc3LC0xND
 QzMjc0MDY1LC0zMjQ2Nzc0NTgsMTYxNjgyMzg5NywxODM1MDM3
 NDYzLDE3MjI4NTM0ODgsLTE2MDY4MDQ5NzEsMTY2MTM5MjM5OS
 wxNTA3ODU1NTUsLTE1MDUzNzQyMjcsMjA3NDYxMDM0OSwtMjAw

@@ -42,7 +42,8 @@ GitHub在环境切换中的应用
 # 换个角度认识软件{林宁]
 > 阅读笔记和记录
 ## 为什么我们更别人说不明白
-每个人的思维方式和逻辑不同，使得
+每个人的思维方式和逻辑不同，使得沟通过程不容易，但并没有文章讨论过软件设计和开发过程中如何使用 现代逻辑学来解决问题，所以作者在这里讨论一些逻辑学基础知识。
+
 ## 用模型理解编程语言和面向对象
 
 ## 理解软件背后的生意
@@ -51,7 +52,7 @@ GitHub在环境切换中的应用
 
 ## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzg5MDM4MywtMTE2NDMzOTE3NywtMT
+eyJoaXN0b3J5IjpbMTgyNTAxNTA4NCwtMTE2NDMzOTE3NywtMT
 Q0MzI3NDA2NSwtMzI0Njc3NDU4LDE2MTY4MjM4OTcsMTgzNTAz
 NzQ2MywxNzIyODUzNDg4LC0xNjA2ODA0OTcxLDE2NjEzOTIzOT
 ksMTUwNzg1NTU1LC0xNTA1Mzc0MjI3LDIwNzQ2MTAzNDksLTIw

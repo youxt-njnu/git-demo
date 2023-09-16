@@ -69,7 +69,10 @@ GitHub在环境切换中的应用
 **背景**
 用一个较为简单的东西来表达另一个东西，这个简单的东西就叫做模型；
 模型的特点：简化的、逻辑的（模型中的元素可以用一种逻辑关系做到自洽）、错误的（模型是一种抽象和简化）
-为了建立模型，模型思考的几个层次：数据
+为了建立和利用模型，模型思考的几个层次：数据、信息、知识、智慧。
+软件从设计到开发的过程就是各种模型的转换。
+
+**软件工程中的模型**
 
 ## 理解软件背后的生意
 
@@ -77,7 +80,7 @@ GitHub在环境切换中的应用
 
 ## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTkyOTc0MywxNDM5NDI3MTgzLC0xMT
+eyJoaXN0b3J5IjpbMTAxNDczNTI2MSwxNDM5NDI3MTgzLC0xMT
 Y0MzM5MTc3LC0xNDQzMjc0MDY1LC0zMjQ2Nzc0NTgsMTYxNjgy
 Mzg5NywxODM1MDM3NDYzLDE3MjI4NTM0ODgsLTE2MDY4MDQ5Nz
 EsMTY2MTM5MjM5OSwxNTA3ODU1NTUsLTE1MDUzNzQyMjcsMjA3

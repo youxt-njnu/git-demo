@@ -44,7 +44,8 @@ GitHub在环境切换中的应用
 ## 为什么我们更别人说不明白
 每个人的思维方式和逻辑不同，使得沟通过程不容易，但并没有文章讨论过软件设计和开发过程中如何使用 现代逻辑学来解决问题，所以作者在这里讨论一些逻辑学基础知识。
 对一些用词的概念的定义不明确，如”设备“、”用户“；
-通过一些基础的属性来描述这些概念，属性包括了
+通过一些基础的属性来描述这些概念，属性包括了十五本身的性质、行为、和其他事物的关系；
+属性相同
 ## 用模型理解编程语言和面向对象
 
 ## 理解软件背后的生意
@@ -53,11 +54,11 @@ GitHub在环境切换中的应用
 
 ## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTgwOTEzOCwtMTE2NDMzOTE3NywtMT
-Q0MzI3NDA2NSwtMzI0Njc3NDU4LDE2MTY4MjM4OTcsMTgzNTAz
-NzQ2MywxNzIyODUzNDg4LC0xNjA2ODA0OTcxLDE2NjEzOTIzOT
-ksMTUwNzg1NTU1LC0xNTA1Mzc0MjI3LDIwNzQ2MTAzNDksLTIw
-MDQ0OTk3MjMsLTY4MzgzNTE0OCw3NDg2NzI1NDgsOTk1NTkwMT
-IsLTE2NDk5MjQ1MTgsMzE1MzM0NjI2LC0yMDMwODkwNTAyLDEw
-ODczOTEyNTNdfQ==
+eyJoaXN0b3J5IjpbLTIwMDA5MzAwNTksLTExNjQzMzkxNzcsLT
+E0NDMyNzQwNjUsLTMyNDY3NzQ1OCwxNjE2ODIzODk3LDE4MzUw
+Mzc0NjMsMTcyMjg1MzQ4OCwtMTYwNjgwNDk3MSwxNjYxMzkyMz
+k5LDE1MDc4NTU1NSwtMTUwNTM3NDIyNywyMDc0NjEwMzQ5LC0y
+MDA0NDk5NzIzLC02ODM4MzUxNDgsNzQ4NjcyNTQ4LDk5NTU5MD
+EyLC0xNjQ5OTI0NTE4LDMxNTMzNDYyNiwtMjAzMDg5MDUwMiwx
+MDg3MzkxMjUzXX0=
 -->

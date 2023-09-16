@@ -51,7 +51,7 @@ GitHub在环境切换中的应用
 描述概念可以采用自然语言、形式语言；
 软件工程师的工作就是对现实事物进行形式化，将描述需求的自然语言转换为代码这种形式语言。
 
-
+gai'nian
 ## 用模型理解编程语言和面向对象
 
 ## 理解软件背后的生意
@@ -60,7 +60,7 @@ GitHub在环境切换中的应用
 
 ## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODE4NzE1LC0xMTY0MzM5MTc3LC0xND
+eyJoaXN0b3J5IjpbMTg0ODc4NjUxLC0xMTY0MzM5MTc3LC0xND
 QzMjc0MDY1LC0zMjQ2Nzc0NTgsMTYxNjgyMzg5NywxODM1MDM3
 NDYzLDE3MjI4NTM0ODgsLTE2MDY4MDQ5NzEsMTY2MTM5MjM5OS
 wxNTA3ODU1NTUsLTE1MDUzNzQyMjcsMjA3NDYxMDM0OSwtMjAw

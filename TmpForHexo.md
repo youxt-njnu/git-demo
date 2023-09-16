@@ -82,7 +82,9 @@ GitHub在环境切换中的应用
 **计算机科学中的模型**
 计算机发展的转折点往往都是大师提出关键模型的时期；
 图灵模型把解决问题的过程抽象为算法和数据，冯诺依曼进一步抽象了算法也是数据，让计算机无限循环。
-用自己定义
+用自己定义的语法规则写程序，通过编译器来转换为机器指令。而这种定义语法规则下的新语言需要满足特定条件：
+> 语法必须是形式化的、语法能方便的转换、人们能接受这种语法编写程序
+
 
 
 ## 理解软件背后的生意
@@ -91,11 +93,11 @@ GitHub在环境切换中的应用
 
 ## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODIzODUwNSwxMDE0NzM1MjYxLDE0Mz
-k0MjcxODMsLTExNjQzMzkxNzcsLTE0NDMyNzQwNjUsLTMyNDY3
-NzQ1OCwxNjE2ODIzODk3LDE4MzUwMzc0NjMsMTcyMjg1MzQ4OC
-wtMTYwNjgwNDk3MSwxNjYxMzkyMzk5LDE1MDc4NTU1NSwtMTUw
-NTM3NDIyNywyMDc0NjEwMzQ5LC0yMDA0NDk5NzIzLC02ODM4Mz
-UxNDgsNzQ4NjcyNTQ4LDk5NTU5MDEyLC0xNjQ5OTI0NTE4LDMx
-NTMzNDYyNl19
+eyJoaXN0b3J5IjpbLTExOTE5MTAyMzUsMTAxNDczNTI2MSwxND
+M5NDI3MTgzLC0xMTY0MzM5MTc3LC0xNDQzMjc0MDY1LC0zMjQ2
+Nzc0NTgsMTYxNjgyMzg5NywxODM1MDM3NDYzLDE3MjI4NTM0OD
+gsLTE2MDY4MDQ5NzEsMTY2MTM5MjM5OSwxNTA3ODU1NTUsLTE1
+MDUzNzQyMjcsMjA3NDYxMDM0OSwtMjAwNDQ5OTcyMywtNjgzOD
+M1MTQ4LDc0ODY3MjU0OCw5OTU1OTAxMiwtMTY0OTkyNDUxOCwz
+MTUzMzQ2MjZdfQ==
 -->

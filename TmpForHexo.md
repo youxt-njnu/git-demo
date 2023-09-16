@@ -41,9 +41,17 @@ GitHub在环境切换中的应用
 
 # 换个角度认识软件{林宁]
 > 阅读笔记和记录
-## 为什么
+## 为什么我们更别人说不明白
+
+## 用模型理解编程语言和面向对象
+
+## 理解软件背后的生意
+
+## 透过领域建模看软件的骨相
+
+## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQwODczODIsLTExNjQzMzkxNzcsLT
+eyJoaXN0b3J5IjpbLTExMTg3NDI0MDQsLTExNjQzMzkxNzcsLT
 E0NDMyNzQwNjUsLTMyNDY3NzQ1OCwxNjE2ODIzODk3LDE4MzUw
 Mzc0NjMsMTcyMjg1MzQ4OCwtMTYwNjgwNDk3MSwxNjYxMzkyMz
 k5LDE1MDc4NTU1NSwtMTUwNTM3NDIyNywyMDc0NjEwMzQ5LC0y

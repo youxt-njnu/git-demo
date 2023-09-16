@@ -85,7 +85,7 @@ GitHub在环境切换中的应用
 用自己定义的语法规则写程序，通过编译器来转换为机器指令。而这种定义语法规则下的新语言需要满足特定条件：
 > 语法必须是形式化的、语法能方便的转换、人们能接受这种语法编写程序
 
-编译过程：词法分析、语法解析、yu'yi'fen'xi
+编译过程：词法分析、语法解析、语义分析、中间代码、目标代码(词法Lexical 句法Syntax 语义Grammar)
 
 ## 理解软件背后的生意
 
@@ -93,11 +93,11 @@ GitHub在环境切换中的应用
 
 ## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDUzMjU5NjIsMTAxNDczNTI2MSwxND
-M5NDI3MTgzLC0xMTY0MzM5MTc3LC0xNDQzMjc0MDY1LC0zMjQ2
-Nzc0NTgsMTYxNjgyMzg5NywxODM1MDM3NDYzLDE3MjI4NTM0OD
-gsLTE2MDY4MDQ5NzEsMTY2MTM5MjM5OSwxNTA3ODU1NTUsLTE1
-MDUzNzQyMjcsMjA3NDYxMDM0OSwtMjAwNDQ5OTcyMywtNjgzOD
-M1MTQ4LDc0ODY3MjU0OCw5OTU1OTAxMiwtMTY0OTkyNDUxOCwz
-MTUzMzQ2MjZdfQ==
+eyJoaXN0b3J5IjpbNTAxNjg5ODEyLDEwMTQ3MzUyNjEsMTQzOT
+QyNzE4MywtMTE2NDMzOTE3NywtMTQ0MzI3NDA2NSwtMzI0Njc3
+NDU4LDE2MTY4MjM4OTcsMTgzNTAzNzQ2MywxNzIyODUzNDg4LC
+0xNjA2ODA0OTcxLDE2NjEzOTIzOTksMTUwNzg1NTU1LC0xNTA1
+Mzc0MjI3LDIwNzQ2MTAzNDksLTIwMDQ0OTk3MjMsLTY4MzgzNT
+E0OCw3NDg2NzI1NDgsOTk1NTkwMTIsLTE2NDk5MjQ1MTgsMzE1
+MzM0NjI2XX0=
 -->

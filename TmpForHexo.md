@@ -41,24 +41,25 @@ GitHub在环境切换中的应用
 
 # 换个角度认识软件{林宁]
 > 阅读笔记和记录
-## 为什么我们更别人说不明白
+## 为什么我们跟别人说不明白
+**背景**
 每个人的思维方式和逻辑不同，使得沟通过程不容易，但并没有文章讨论过软件设计和开发过程中如何使用 现代逻辑学来解决问题，所以作者在这里讨论一些逻辑学基础知识。
-
 对一些用词的概念的定义不明确，如”设备“、”用户“；
 通过一些基础的属性来描述这些概念，属性包括了十五本身的性质、行为、和其他事物的关系；
 属性相同，即使名称不同，仍然是一个事物，如土豆和马铃薯。
 
+**概念的描述**
 描述概念可以采用自然语言、形式语言；
 软件工程师的工作就是对现实事物进行形式化，将描述需求的自然语言转换为代码这种形式语言。
-概念d
 
+**概念的特征**
 概念的两个基本逻辑特征是：内涵和外延，两者此消彼长。前者越小，对象能被复用的场景越多；后者越小，对象越加具体。软件设计人员需要意识到概念的内涵和外延，不能乱用概念，如用户维护的地址和订单中的地址，这两个地址的内涵和外延就不一样。
 
-下定义的方法，可以根据概念的属性、内涵和外延来进行：
+**下定义的方法，可以根据概念的属性、内涵和外延来进行：**
 1. 属加种差定义法（大类的”属概念“，小类的”种概念“和属概念之间的差异化特性”种差“，被定义的概念=种差+属概念）
 2. 对概念的定义和认识随着认识的加深儿不断变化，软件狗给弄成是在软件建模中需要对领域有基本的认识
 
-如何避免无意义的争论：
+**如何避免无意义的争论：**
 1. 保证在讨论中涉及的概念是同一的；
 2. 对于提出的需求中存在的矛盾之处，需要理清楚
 3. 讨论最终要有结论，而不是似是而非
@@ -66,17 +67,18 @@ GitHub在环境切换中的应用
 
 ## 用模型理解编程语言和面向对象
 
+
 ## 理解软件背后的生意
 
 ## 透过领域建模看软件的骨相
 
 ## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjUzNzIwNywxNDM5NDI3MTgzLC0xMT
-Y0MzM5MTc3LC0xNDQzMjc0MDY1LC0zMjQ2Nzc0NTgsMTYxNjgy
-Mzg5NywxODM1MDM3NDYzLDE3MjI4NTM0ODgsLTE2MDY4MDQ5Nz
-EsMTY2MTM5MjM5OSwxNTA3ODU1NTUsLTE1MDUzNzQyMjcsMjA3
-NDYxMDM0OSwtMjAwNDQ5OTcyMywtNjgzODM1MTQ4LDc0ODY3Mj
-U0OCw5OTU1OTAxMiwtMTY0OTkyNDUxOCwzMTUzMzQ2MjYsLTIw
-MzA4OTA1MDJdfQ==
+eyJoaXN0b3J5IjpbLTE1MTE0NDQ2OTcsMTQzOTQyNzE4MywtMT
+E2NDMzOTE3NywtMTQ0MzI3NDA2NSwtMzI0Njc3NDU4LDE2MTY4
+MjM4OTcsMTgzNTAzNzQ2MywxNzIyODUzNDg4LC0xNjA2ODA0OT
+cxLDE2NjEzOTIzOTksMTUwNzg1NTU1LC0xNTA1Mzc0MjI3LDIw
+NzQ2MTAzNDksLTIwMDQ0OTk3MjMsLTY4MzgzNTE0OCw3NDg2Nz
+I1NDgsOTk1NTkwMTIsLTE2NDk5MjQ1MTgsMzE1MzM0NjI2LC0y
+MDMwODkwNTAyXX0=
 -->

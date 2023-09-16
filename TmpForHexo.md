@@ -76,7 +76,8 @@ GitHub在环境切换中的应用
 ![](https://s2.loli.net/2023/09/16/iv7XaIVjr3Md5PZ.png)
 对于应用开发的软件工程师而言，核心问题是：如何把非形式化的业务输入模型进行抽象设计，转换为形式化的过程。能深刻分析业务并获得良好抽象结果的程序员具有很大的竞争力。
 商业模型描述了软件背后的生意，如何完成交易并获得利润；
-软件业务模型描述了
+软件业务模型描述了软件的操作和交互，并关注参与的用户、流程和业务规则。
+明白这些模型背后的目标后，能够更加从容地应对各种问题。
 
 
 ## 理解软件背后的生意
@@ -85,11 +86,11 @@ GitHub在环境切换中的应用
 
 ## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5ODExNDU1LDEwMTQ3MzUyNjEsMTQzOT
-QyNzE4MywtMTE2NDMzOTE3NywtMTQ0MzI3NDA2NSwtMzI0Njc3
-NDU4LDE2MTY4MjM4OTcsMTgzNTAzNzQ2MywxNzIyODUzNDg4LC
-0xNjA2ODA0OTcxLDE2NjEzOTIzOTksMTUwNzg1NTU1LC0xNTA1
-Mzc0MjI3LDIwNzQ2MTAzNDksLTIwMDQ0OTk3MjMsLTY4MzgzNT
-E0OCw3NDg2NzI1NDgsOTk1NTkwMTIsLTE2NDk5MjQ1MTgsMzE1
-MzM0NjI2XX0=
+eyJoaXN0b3J5IjpbMTA5NDQ3NTcyOSwxMDE0NzM1MjYxLDE0Mz
+k0MjcxODMsLTExNjQzMzkxNzcsLTE0NDMyNzQwNjUsLTMyNDY3
+NzQ1OCwxNjE2ODIzODk3LDE4MzUwMzc0NjMsMTcyMjg1MzQ4OC
+wtMTYwNjgwNDk3MSwxNjYxMzkyMzk5LDE1MDc4NTU1NSwtMTUw
+NTM3NDIyNywyMDc0NjEwMzQ5LC0yMDA0NDk5NzIzLC02ODM4Mz
+UxNDgsNzQ4NjcyNTQ4LDk5NTU5MDEyLC0xNjQ5OTI0NTE4LDMx
+NTMzNDYyNl19
 -->

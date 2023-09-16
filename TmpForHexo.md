@@ -74,7 +74,9 @@ GitHub在环境切换中的应用
 
 **软件工程中的模型**
 ![](https://s2.loli.net/2023/09/16/iv7XaIVjr3Md5PZ.png)
-对于应用开发的软件工程师而言，核心问题是：如何把非形式化的业务输入模型进行抽象设计，转换为形式化的过程。能shen'ke'fen'xi
+对于应用开发的软件工程师而言，核心问题是：如何把非形式化的业务输入模型进行抽象设计，转换为形式化的过程。能深刻分析业务并获得良好抽象结果的程序员具有很大的竞争力。
+商业模型描述了软件背后的生意，如何完成交易并获得利润；
+软件业务模型描述了
 
 
 ## 理解软件背后的生意
@@ -83,7 +85,7 @@ GitHub在环境切换中的应用
 
 ## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1ODk3NTEyLDEwMTQ3MzUyNjEsMTQzOT
+eyJoaXN0b3J5IjpbNjI5ODExNDU1LDEwMTQ3MzUyNjEsMTQzOT
 QyNzE4MywtMTE2NDMzOTE3NywtMTQ0MzI3NDA2NSwtMzI0Njc3
 NDU4LDE2MTY4MjM4OTcsMTgzNTAzNzQ2MywxNzIyODUzNDg4LC
 0xNjA2ODA0OTcxLDE2NjEzOTIzOTksMTUwNzg1NTU1LC0xNTA1

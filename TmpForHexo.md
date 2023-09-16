@@ -79,6 +79,8 @@ GitHub在环境切换中的应用
 软件业务模型描述了软件的操作和交互，并关注参与的用户、流程和业务规则。
 明白这些模型背后的目标后，能够更加从容地应对各种问题。
 
+**计算机科学中的模型**
+计算机发展的转折点往往都是大师提出关键模型的时期；
 
 
 ## 理解软件背后的生意
@@ -87,7 +89,7 @@ GitHub在环境切换中的应用
 
 ## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjgxNzkxLDEwMTQ3MzUyNjEsMTQzOT
+eyJoaXN0b3J5IjpbNTE0OTM3Nzg0LDEwMTQ3MzUyNjEsMTQzOT
 QyNzE4MywtMTE2NDMzOTE3NywtMTQ0MzI3NDA2NSwtMzI0Njc3
 NDU4LDE2MTY4MjM4OTcsMTgzNTAzNzQ2MywxNzIyODUzNDg4LC
 0xNjA2ODA0OTcxLDE2NjEzOTIzOTksMTUwNzg1NTU1LC0xNTA1

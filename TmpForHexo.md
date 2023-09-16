@@ -57,7 +57,9 @@ GitHub在环境切换中的应用
 1. 属加种差定义法（大类的”属概念“，小类的”种概念“和属概念之间的差异化特性”种差“，被定义的概念=种差+属概念）
 2. 对概念的定义和认识随着认识的加深儿不断变化，软件狗给弄成是在软件建模中需要对领域有基本的认识
 
-如何避免无意义的
+如何避免无意义的争论：
+1. 保证在讨论中涉及的概念是同一的；
+4. 
 ## 用模型理解编程语言和面向对象
 
 ## 理解软件背后的生意
@@ -66,11 +68,11 @@ GitHub在环境切换中的应用
 
 ## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTYzMDEwMiwxNDM5NDI3MTgzLC0xMT
-Y0MzM5MTc3LC0xNDQzMjc0MDY1LC0zMjQ2Nzc0NTgsMTYxNjgy
-Mzg5NywxODM1MDM3NDYzLDE3MjI4NTM0ODgsLTE2MDY4MDQ5Nz
-EsMTY2MTM5MjM5OSwxNTA3ODU1NTUsLTE1MDUzNzQyMjcsMjA3
-NDYxMDM0OSwtMjAwNDQ5OTcyMywtNjgzODM1MTQ4LDc0ODY3Mj
-U0OCw5OTU1OTAxMiwtMTY0OTkyNDUxOCwzMTUzMzQ2MjYsLTIw
-MzA4OTA1MDJdfQ==
+eyJoaXN0b3J5IjpbMjI5NjExMTUxLDE0Mzk0MjcxODMsLTExNj
+QzMzkxNzcsLTE0NDMyNzQwNjUsLTMyNDY3NzQ1OCwxNjE2ODIz
+ODk3LDE4MzUwMzc0NjMsMTcyMjg1MzQ4OCwtMTYwNjgwNDk3MS
+wxNjYxMzkyMzk5LDE1MDc4NTU1NSwtMTUwNTM3NDIyNywyMDc0
+NjEwMzQ5LC0yMDA0NDk5NzIzLC02ODM4MzUxNDgsNzQ4NjcyNT
+Q4LDk5NTU5MDEyLC0xNjQ5OTI0NTE4LDMxNTMzNDYyNiwtMjAz
+MDg5MDUwMl19
 -->

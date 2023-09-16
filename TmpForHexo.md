@@ -51,7 +51,9 @@ GitHub在环境切换中的应用
 描述概念可以采用自然语言、形式语言；
 软件工程师的工作就是对现实事物进行形式化，将描述需求的自然语言转换为代码这种形式语言。
 
-概念的两个基本逻辑特征是：内涵和外延，两者此消彼长。前者越小，对象能被复用的场景越多；后者越小，对象越加具体
+概念的两个基本逻辑特征是：内涵和外延，两者此消彼长。前者越小，对象能被复用的场景越多；后者越小，对象越加具体。软件设计人员需要意识到概念的内涵和外延，不能乱用概念，如用户维护的地址和订单中的地址，这两个地址的内涵和外延就不一样。
+
+
 ## 用模型理解编程语言和面向对象
 
 ## 理解软件背后的生意
@@ -60,11 +62,11 @@ GitHub在环境切换中的应用
 
 ## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODM1MDI5LC0xMTY0MzM5MTc3LC0xND
-QzMjc0MDY1LC0zMjQ2Nzc0NTgsMTYxNjgyMzg5NywxODM1MDM3
-NDYzLDE3MjI4NTM0ODgsLTE2MDY4MDQ5NzEsMTY2MTM5MjM5OS
-wxNTA3ODU1NTUsLTE1MDUzNzQyMjcsMjA3NDYxMDM0OSwtMjAw
-NDQ5OTcyMywtNjgzODM1MTQ4LDc0ODY3MjU0OCw5OTU1OTAxMi
-wtMTY0OTkyNDUxOCwzMTUzMzQ2MjYsLTIwMzA4OTA1MDIsMTA4
-NzM5MTI1M119
+eyJoaXN0b3J5IjpbMTQzOTQyNzE4MywtMTE2NDMzOTE3NywtMT
+Q0MzI3NDA2NSwtMzI0Njc3NDU4LDE2MTY4MjM4OTcsMTgzNTAz
+NzQ2MywxNzIyODUzNDg4LC0xNjA2ODA0OTcxLDE2NjEzOTIzOT
+ksMTUwNzg1NTU1LC0xNTA1Mzc0MjI3LDIwNzQ2MTAzNDksLTIw
+MDQ0OTk3MjMsLTY4MzgzNTE0OCw3NDg2NzI1NDgsOTk1NTkwMT
+IsLTE2NDk5MjQ1MTgsMzE1MzM0NjI2LC0yMDMwODkwNTAyLDEw
+ODczOTEyNTNdfQ==
 -->

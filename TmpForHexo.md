@@ -54,7 +54,7 @@ GitHub在环境切换中的应用
 概念的两个基本逻辑特征是：内涵和外延，两者此消彼长。前者越小，对象能被复用的场景越多；后者越小，对象越加具体。软件设计人员需要意识到概念的内涵和外延，不能乱用概念，如用户维护的地址和订单中的地址，这两个地址的内涵和外延就不一样。
 
 下定义的方法，可以根据概念的属性、内涵和外延来进行：
-1. 属加种差定义法（大类的”属概念“，xiao'nei
+1. 属加种差定义法（大类的”属概念“，小类的”种概念“和属概念之间的差异化特性”种差“，利用属概念和种差进行定义）
 2. 
 ## 用模型理解编程语言和面向对象
 
@@ -64,11 +64,11 @@ GitHub在环境切换中的应用
 
 ## 把团队看作分布式系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NTA0OTAzLDE0Mzk0MjcxODMsLTExNj
-QzMzkxNzcsLTE0NDMyNzQwNjUsLTMyNDY3NzQ1OCwxNjE2ODIz
-ODk3LDE4MzUwMzc0NjMsMTcyMjg1MzQ4OCwtMTYwNjgwNDk3MS
-wxNjYxMzkyMzk5LDE1MDc4NTU1NSwtMTUwNTM3NDIyNywyMDc0
-NjEwMzQ5LC0yMDA0NDk5NzIzLC02ODM4MzUxNDgsNzQ4NjcyNT
-Q4LDk5NTU5MDEyLC0xNjQ5OTI0NTE4LDMxNTMzNDYyNiwtMjAz
-MDg5MDUwMl19
+eyJoaXN0b3J5IjpbMTg1Mjc5NTA5NCwxNDM5NDI3MTgzLC0xMT
+Y0MzM5MTc3LC0xNDQzMjc0MDY1LC0zMjQ2Nzc0NTgsMTYxNjgy
+Mzg5NywxODM1MDM3NDYzLDE3MjI4NTM0ODgsLTE2MDY4MDQ5Nz
+EsMTY2MTM5MjM5OSwxNTA3ODU1NTUsLTE1MDUzNzQyMjcsMjA3
+NDYxMDM0OSwtMjAwNDQ5OTcyMywtNjgzODM1MTQ4LDc0ODY3Mj
+U0OCw5OTU1OTAxMiwtMTY0OTkyNDUxOCwzMTUzMzQ2MjYsLTIw
+MzA4OTA1MDJdfQ==
 -->

@@ -119,7 +119,7 @@ GitHub在环境切换中的应用
 > 各类识别的算法、降低延迟、提高性能的算法
 > 希望构建一个3D的UI库，来让开发者能像开发2D一样方便地开发3D
 > ![输入图片说明](/imgs/2023-09-27/BoVFYgH7xNjAAmYe.png)
-> AIGC时代，混合现实、人机交互、三维建模这些传统方向是否还受到青睐，有哪些机遇和挑战
+> chatgpt、AIGC时代，混合现实、人机交互、三维建模这些传统方向是否还受到青睐，有哪些机遇和挑战：作为工具来提高效率和提供优化；XR眼镜上搞一个虚拟助手，进行
 
 
 
@@ -130,11 +130,11 @@ GitHub在环境切换中的应用
 > 讲了很多个系统的数字孪生，像空调系统的孪生体，工厂的孪生体，机器人虚拟项目，城市的数字孪生（智慧城市）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDc0NTkzMCwtNzY1ODY1NDg1LC0xND
-A2ODQyODksLTEzNjE4OTcxOCwtNjcyMjU3MTU5LC0xODI4NzY0
-NDc3LC0yMDgxMjY4OTQ0LDgxODY3NjE5LC0yNDA1OTA3NiwxOD
-A0OTc0NDg5LDUwMTY4OTgxMiwxMDE0NzM1MjYxLDE0Mzk0Mjcx
-ODMsLTExNjQzMzkxNzcsLTE0NDMyNzQwNjUsLTMyNDY3NzQ1OC
-wxNjE2ODIzODk3LDE4MzUwMzc0NjMsMTcyMjg1MzQ4OCwtMTYw
-NjgwNDk3MV19
+eyJoaXN0b3J5IjpbLTE1MTIwMTMxNjYsLTc2NTg2NTQ4NSwtMT
+QwNjg0Mjg5LC0xMzYxODk3MTgsLTY3MjI1NzE1OSwtMTgyODc2
+NDQ3NywtMjA4MTI2ODk0NCw4MTg2NzYxOSwtMjQwNTkwNzYsMT
+gwNDk3NDQ4OSw1MDE2ODk4MTIsMTAxNDczNTI2MSwxNDM5NDI3
+MTgzLC0xMTY0MzM5MTc3LC0xNDQzMjc0MDY1LC0zMjQ2Nzc0NT
+gsMTYxNjgyMzg5NywxODM1MDM3NDYzLDE3MjI4NTM0ODgsLTE2
+MDY4MDQ5NzFdfQ==
 -->

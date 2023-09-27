@@ -105,15 +105,17 @@ GitHub在环境切换中的应用
 [超视界](https://www.zhaopin.com/companydetail/CZ229765780.htm?type__1529=YqIx2DyDnim49DBqDTnlDgDfxGT%2BL7B0oD&alichlgref=https%3A%2F%2Fcn.bing.com%2F)
 
 [虹宇科技](https://www.innohere.com/ir/101055.html)
-> 操作系统
 > ![输入图片说明](/imgs/2023-09-27/l6KsStSEep0eXBWZ.png)
-> 
+> 想做XR眼镜这种交互平台上，做一套操作系统；
+> 裸手、眼动追踪、语音输入这些，反正很多很杂；
+> 所以需要考虑不同的硬件情况，做到尽可能兼容；
+> 对象的交互体验需要做到统一；
 
 [中创新航 (calb-tech.com)](http://www.calb-tech.com/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQyMTc3NTAsLTIwODEyNjg5NDQsOD
+eyJoaXN0b3J5IjpbLTE4Mjg3NjQ0NzcsLTIwODEyNjg5NDQsOD
 E4Njc2MTksLTI0MDU5MDc2LDE4MDQ5NzQ0ODksNTAxNjg5ODEy
 LDEwMTQ3MzUyNjEsMTQzOTQyNzE4MywtMTE2NDMzOTE3NywtMT
 Q0MzI3NDA2NSwtMzI0Njc3NDU4LDE2MTY4MjM4OTcsMTgzNTAz

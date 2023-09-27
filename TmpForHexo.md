@@ -103,6 +103,8 @@ GitHub在环境切换中的应用
 
 
 [超视界](https://www.zhaopin.com/companydetail/CZ229765780.htm?type__1529=YqIx2DyDnim49DBqDTnlDgDfxGT%2BL7B0oD&alichlgref=https%3A%2F%2Fcn.bing.com%2F)
+> 流浪地球2的数字生命是否能实现，有哪些技术难点：对意识的储存的问题；意识被放置的时候要考虑法律、这个该如何定义，就是伦理和道德的问题；
+> 
 
 [虹宇科技](https://www.innohere.com/ir/101055.html)
 > ![输入图片说明](/imgs/2023-09-27/l6KsStSEep0eXBWZ.png)
@@ -127,11 +129,11 @@ GitHub在环境切换中的应用
 > 讲了很多个系统的数字孪生，像空调系统的孪生体，工厂的孪生体，机器人虚拟项目，城市的数字孪生（智慧城市）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY4NDI4OSwtMTM2MTg5NzE4LC02Nz
-IyNTcxNTksLTE4Mjg3NjQ0NzcsLTIwODEyNjg5NDQsODE4Njc2
-MTksLTI0MDU5MDc2LDE4MDQ5NzQ0ODksNTAxNjg5ODEyLDEwMT
-Q3MzUyNjEsMTQzOTQyNzE4MywtMTE2NDMzOTE3NywtMTQ0MzI3
-NDA2NSwtMzI0Njc3NDU4LDE2MTY4MjM4OTcsMTgzNTAzNzQ2My
-wxNzIyODUzNDg4LC0xNjA2ODA0OTcxLDE2NjEzOTIzOTksMTUw
-Nzg1NTU1XX0=
+eyJoaXN0b3J5IjpbLTc2NTg2NTQ4NSwtMTQwNjg0Mjg5LC0xMz
+YxODk3MTgsLTY3MjI1NzE1OSwtMTgyODc2NDQ3NywtMjA4MTI2
+ODk0NCw4MTg2NzYxOSwtMjQwNTkwNzYsMTgwNDk3NDQ4OSw1MD
+E2ODk4MTIsMTAxNDczNTI2MSwxNDM5NDI3MTgzLC0xMTY0MzM5
+MTc3LC0xNDQzMjc0MDY1LC0zMjQ2Nzc0NTgsMTYxNjgyMzg5Ny
+wxODM1MDM3NDYzLDE3MjI4NTM0ODgsLTE2MDY4MDQ5NzEsMTY2
+MTM5MjM5OV19
 -->

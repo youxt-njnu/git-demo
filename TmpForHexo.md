@@ -115,17 +115,20 @@ GitHub在环境切换中的应用
 > XR体验中的机会与挑战：![输入图片说明](/imgs/2023-09-27/jpbwl708JfG2t2mB.png)
 > 希望眼镜是移动平台的，方便携带的，减少发热，
 > 各类识别的算法、降低延迟、提高性能的算法
-> 希望构建一个3D的UI库，来让
+> 希望构建一个3D的UI库，来让开发者能像开发2D一样方便地开发3D
+> ![输入图片说明](/imgs/2023-09-27/BoVFYgH7xNjAAmYe.png)
+
+
 
 [中创新航 (calb-tech.com)](http://www.calb-tech.com/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MjUxMjA2OCwtMTgyODc2NDQ3NywtMj
-A4MTI2ODk0NCw4MTg2NzYxOSwtMjQwNTkwNzYsMTgwNDk3NDQ4
-OSw1MDE2ODk4MTIsMTAxNDczNTI2MSwxNDM5NDI3MTgzLC0xMT
-Y0MzM5MTc3LC0xNDQzMjc0MDY1LC0zMjQ2Nzc0NTgsMTYxNjgy
-Mzg5NywxODM1MDM3NDYzLDE3MjI4NTM0ODgsLTE2MDY4MDQ5Nz
-EsMTY2MTM5MjM5OSwxNTA3ODU1NTUsLTE1MDUzNzQyMjcsMjA3
-NDYxMDM0OV19
+eyJoaXN0b3J5IjpbNDMyNzAyNTY1LC0xODI4NzY0NDc3LC0yMD
+gxMjY4OTQ0LDgxODY3NjE5LC0yNDA1OTA3NiwxODA0OTc0NDg5
+LDUwMTY4OTgxMiwxMDE0NzM1MjYxLDE0Mzk0MjcxODMsLTExNj
+QzMzkxNzcsLTE0NDMyNzQwNjUsLTMyNDY3NzQ1OCwxNjE2ODIz
+ODk3LDE4MzUwMzc0NjMsMTcyMjg1MzQ4OCwtMTYwNjgwNDk3MS
+wxNjYxMzkyMzk5LDE1MDc4NTU1NSwtMTUwNTM3NDIyNywyMDc0
+NjEwMzQ5XX0=
 -->

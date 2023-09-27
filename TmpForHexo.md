@@ -129,13 +129,19 @@ GitHub在环境切换中的应用
 > 这方面不就是类似压缩嘛，那能不能看看从这方面发个论文❓❓
 > 讲了很多个系统的数字孪生，像空调系统的孪生体，工厂的孪生体，机器人虚拟项目，城市的数字孪生（智慧城市）
 
-
+在实际工作中重要的能力：
+要培养给上级汇报：解决问题的方案，体现解决方案的能力；
+沟通能力：说话流畅、逻辑清晰、有效的沟通来避免误解
+提高工作效率，时间管理能力
+团队合作
+提高在新环境下的适应性
+持续学习的能力
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTQ4NTI0MiwtNzY1ODY1NDg1LC0xND
-A2ODQyODksLTEzNjE4OTcxOCwtNjcyMjU3MTU5LC0xODI4NzY0
-NDc3LC0yMDgxMjY4OTQ0LDgxODY3NjE5LC0yNDA1OTA3NiwxOD
-A0OTc0NDg5LDUwMTY4OTgxMiwxMDE0NzM1MjYxLDE0Mzk0Mjcx
-ODMsLTExNjQzMzkxNzcsLTE0NDMyNzQwNjUsLTMyNDY3NzQ1OC
-wxNjE2ODIzODk3LDE4MzUwMzc0NjMsMTcyMjg1MzQ4OCwtMTYw
-NjgwNDk3MV19
+eyJoaXN0b3J5IjpbLTE0NTAwNDAwMjAsLTc2NTg2NTQ4NSwtMT
+QwNjg0Mjg5LC0xMzYxODk3MTgsLTY3MjI1NzE1OSwtMTgyODc2
+NDQ3NywtMjA4MTI2ODk0NCw4MTg2NzYxOSwtMjQwNTkwNzYsMT
+gwNDk3NDQ4OSw1MDE2ODk4MTIsMTAxNDczNTI2MSwxNDM5NDI3
+MTgzLC0xMTY0MzM5MTc3LC0xNDQzMjc0MDY1LC0zMjQ2Nzc0NT
+gsMTYxNjgyMzg5NywxODM1MDM3NDYzLDE3MjI4NTM0ODgsLTE2
+MDY4MDQ5NzFdfQ==
 -->

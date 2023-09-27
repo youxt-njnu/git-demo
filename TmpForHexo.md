@@ -102,7 +102,7 @@ GitHub在环境切换中的应用
 [iclone进行数字人建模](https://www.reallusion.com/cn/iclone/)
 
 
-[超视界](http://www.sdptec.com/Company_Overview_TW.html)
+[超视界](https://www.zhaopin.com/companydetail/CZ229765780.htm?type__1529=YqIx2DyDnim49DBqDTnlDgDfxGT%2BL7B0oD&alichlgref=https%3A%2F%2Fcn.bing.com%2F)
 
 [虹宇科技](https://www.innohere.com/ir/101055.html)
 
@@ -110,11 +110,11 @@ GitHub在环境切换中的应用
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA0OTAxNjQsODE4Njc2MTksLTI0MD
-U5MDc2LDE4MDQ5NzQ0ODksNTAxNjg5ODEyLDEwMTQ3MzUyNjEs
-MTQzOTQyNzE4MywtMTE2NDMzOTE3NywtMTQ0MzI3NDA2NSwtMz
-I0Njc3NDU4LDE2MTY4MjM4OTcsMTgzNTAzNzQ2MywxNzIyODUz
-NDg4LC0xNjA2ODA0OTcxLDE2NjEzOTIzOTksMTUwNzg1NTU1LC
-0xNTA1Mzc0MjI3LDIwNzQ2MTAzNDksLTIwMDQ0OTk3MjMsLTY4
-MzgzNTE0OF19
+eyJoaXN0b3J5IjpbMTc5MjE3MjA0MSw4MTg2NzYxOSwtMjQwNT
+kwNzYsMTgwNDk3NDQ4OSw1MDE2ODk4MTIsMTAxNDczNTI2MSwx
+NDM5NDI3MTgzLC0xMTY0MzM5MTc3LC0xNDQzMjc0MDY1LC0zMj
+Q2Nzc0NTgsMTYxNjgyMzg5NywxODM1MDM3NDYzLDE3MjI4NTM0
+ODgsLTE2MDY4MDQ5NzEsMTY2MTM5MjM5OSwxNTA3ODU1NTUsLT
+E1MDUzNzQyMjcsMjA3NDYxMDM0OSwtMjAwNDQ5OTcyMywtNjgz
+ODM1MTQ4XX0=
 -->

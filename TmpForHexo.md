@@ -136,9 +136,10 @@ GitHub在环境切换中的应用
 团队合作
 提高在新环境下的适应性
 持续学习的能力
-要让领导觉得，把这个任务交给你是放心的，进度不需要催，
+要让领导觉得，把这个任务交给你是放心的，进度不需要催，遇到问题会给领导反馈、自己寻求方案、和别人交流
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjgzODg3MSwtMTQ1MDA0MDAyMCwtNz
+eyJoaXN0b3J5IjpbLTMzMjEyMTQ2NSwtMTQ1MDA0MDAyMCwtNz
 Y1ODY1NDg1LC0xNDA2ODQyODksLTEzNjE4OTcxOCwtNjcyMjU3
 MTU5LC0xODI4NzY0NDc3LC0yMDgxMjY4OTQ0LDgxODY3NjE5LC
 0yNDA1OTA3NiwxODA0OTc0NDg5LDUwMTY4OTgxMiwxMDE0NzM1

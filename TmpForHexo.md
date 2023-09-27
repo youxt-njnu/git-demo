@@ -130,16 +130,10 @@ GitHub在环境切换中的应用
 > 讲了很多个系统的数字孪生，像空调系统的孪生体，工厂的孪生体，机器人虚拟项目，城市的数字孪生（智慧城市）
 
 在实际工作中重要的能力：
-要培养给上级汇报：解决问题的方案，体现解决方案的能力；
-沟通能力：说话流畅、逻辑清晰、有效的沟通来避免误解
-提高工作效率，时间管理能力
-团队合作
-提高在新环境下的适应性
-持续学习的能力
-要让领导觉得，把这个任务交给你是放心的，进度不需要催，遇到问题会给领导反馈、自己寻求方案、和别人交流
+> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjEyMTQ2NSwtMTQ1MDA0MDAyMCwtNz
+eyJoaXN0b3J5IjpbLTkwMDM5MTY0NywtMTQ1MDA0MDAyMCwtNz
 Y1ODY1NDg1LC0xNDA2ODQyODksLTEzNjE4OTcxOCwtNjcyMjU3
 MTU5LC0xODI4NzY0NDc3LC0yMDgxMjY4OTQ0LDgxODY3NjE5LC
 0yNDA1OTA3NiwxODA0OTc0NDg5LDUwMTY4OTgxMiwxMDE0NzM1

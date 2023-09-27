@@ -95,13 +95,16 @@ GitHub在环境切换中的应用
 
 
 
-# [超视界](http://www.sdptec.com/Company_Overview_TW.html)
-3D 数字人
+# 3D 数字人
 ![输入图片说明](/imgs/2023-09-27/9I05a3elPR8rwgA5.png)
+
+[超视界](http://www.sdptec.com/Company_Overview_TW.html)
+
+[虹宇科技](https://www.innohere.com/ir/101055.html)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzI4MjA1NSwxODA0OTc0NDg5LDUwMT
+eyJoaXN0b3J5IjpbLTk5MzIzODQ2MCwxODA0OTc0NDg5LDUwMT
 Y4OTgxMiwxMDE0NzM1MjYxLDE0Mzk0MjcxODMsLTExNjQzMzkx
 NzcsLTE0NDMyNzQwNjUsLTMyNDY3NzQ1OCwxNjE2ODIzODk3LD
 E4MzUwMzc0NjMsMTcyMjg1MzQ4OCwtMTYwNjgwNDk3MSwxNjYx

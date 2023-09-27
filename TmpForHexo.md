@@ -129,8 +129,9 @@ GitHub在环境切换中的应用
 > 这方面不就是类似压缩嘛，那能不能看看从这方面发个论文❓❓
 > 讲了很多个系统的数字孪生，像空调系统的孪生体，工厂的孪生体，机器人虚拟项目，城市的数字孪生（智慧城市）
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTIxNDA5MiwtNzY1ODY1NDg1LC0xND
+eyJoaXN0b3J5IjpbMTg1OTQ4NTI0MiwtNzY1ODY1NDg1LC0xND
 A2ODQyODksLTEzNjE4OTcxOCwtNjcyMjU3MTU5LC0xODI4NzY0
 NDc3LC0yMDgxMjY4OTQ0LDgxODY3NjE5LC0yNDA1OTA3NiwxOD
 A0OTc0NDg5LDUwMTY4OTgxMiwxMDE0NzM1MjYxLDE0Mzk0Mjcx

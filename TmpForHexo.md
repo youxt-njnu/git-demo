@@ -113,13 +113,14 @@ GitHub在环境切换中的应用
 > 可以实现应用共享，可以基于多个应用进行共享；
 > 下一代XR操作系统欧冠IrisOS
 > XR体验中的机会与挑战：![输入图片说明](/imgs/2023-09-27/jpbwl708JfG2t2mB.png)
-> 希望ya
+> 希望眼镜是移动平台的，方便携带的，减少发热，
+> 各类识别的算法、降低延迟、提高性能的算法
 
 [中创新航 (calb-tech.com)](http://www.calb-tech.com/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0NjQ2MTk0LC0xODI4NzY0NDc3LC0yMD
+eyJoaXN0b3J5IjpbNDE2MjU1OTYxLC0xODI4NzY0NDc3LC0yMD
 gxMjY4OTQ0LDgxODY3NjE5LC0yNDA1OTA3NiwxODA0OTc0NDg5
 LDUwMTY4OTgxMiwxMDE0NzM1MjYxLDE0Mzk0MjcxODMsLTExNj
 QzMzkxNzcsLTE0NDMyNzQwNjUsLTMyNDY3NzQ1OCwxNjE2ODIz
